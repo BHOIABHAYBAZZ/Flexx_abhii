@@ -1,0 +1,104 @@
+.offer-section {
+  width: 100%;
+  padding: 40px 5%;
+  background: #fff;
+}
+
+.offer-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.offer-card {
+  position: relative;
+  height: 500px;
+  border-radius: 25px;
+  overflow: hidden;
+  text-decoration: none;
+  background: linear-gradient(180deg, #9f6dd4 0%, #ff9a8b 100%);
+  transition: .4s;
+}
+
+.offer-card:hover {
+  transform: translateY(-8px);
+}
+
+.offer-image {
+  width: 90%;
+  height: 280px;
+  margin: 18px auto;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.offer-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: .5s;
+}
+
+.offer-card:hover img {
+  transform: scale(1.08);
+}
+
+.offer-content {
+  color: white;
+  padding: 0 28px;
+}
+
+.offer-content h3 {
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.offer-content h2 {
+  font-size: 52px;
+  line-height: 1;
+  margin-bottom: 12px;
+  font-weight: 800;
+}
+
+.offer-content p {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.arrow {
+  position: absolute;
+  bottom: 25px;
+  right: 25px;
+  font-size: 55px;
+  font-weight: bold;
+  color: white;
+}
+
+@media(max-width:992px){
+
+.offer-container{
+grid-template-columns:repeat(2,1fr);
+}
+
+}
+
+@media(max-width:768px){
+
+.offer-container{
+grid-template-columns:1fr;
+}
+
+.offer-card{
+height:450px;
+}
+
+.offer-image{
+height:240px;
+}
+
+.offer-content h2{
+font-size:42px;
+}
+
+}

@@ -1,0 +1,69 @@
+/* ================= BANNER SECTION ================= */
+
+.baner-section{
+    width: min(95%, 1400px);
+    margin: 30px auto;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+
+.baner-image{
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 15px;
+    object-fit: cover;
+    box-shadow: 0 8px 25px rgba(0,0,0,.15);
+    transition: transform .3s ease;
+}
+
+.baner-image:hover{
+    transform: scale(1.01);
+}
+
+/* ============ Tablet ============ */
+
+@media (max-width:992px){
+
+    .baner-section{
+        width:96%;
+        margin:25px auto;
+        padding:0 10px;
+    }
+
+    .baner-image{
+        border-radius:12px;
+    }
+
+}
+
+/* ============ Mobile ============ */
+
+@media (max-width:768px){
+
+    .baner-section{
+        width:100%;
+        margin:20px auto;
+        padding:0 10px;
+    }
+
+    .baner-image{
+        border-radius:10px;
+    }
+
+}
+
+/* ============ Small Mobile ============ */
+
+@media (max-width:480px){
+
+    .baner-section{
+        margin:15px auto;
+        padding:0 8px;
+    }
+
+    .baner-image{
+        border-radius:8px;
+    }
+
+}

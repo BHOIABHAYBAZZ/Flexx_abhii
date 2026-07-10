@@ -1,0 +1,2686 @@
+{
+  "data": [
+  {
+    "id": 1,
+    "category": "protein",
+    "img": "https://i.pinimg.com/1200x/ca/2d/ca/ca2dcae5e58d0fc54448aaf6b0c1407d.jpg",
+    "price": 1999
+  },
+  {
+    "id": 2,
+    "category": "dumbbell",
+    "img": "https://i.pinimg.com/736x/02/9f/99/029f991061bab44296c2e8a13f59b0de.jpg",
+    "price": 1499
+  },
+  {
+    "id": 3,
+    "category": "gym_gloves",
+    "img": "https://i.pinimg.com/1200x/b7/de/55/b7de55459c6797eda81c9ee37c1c75cb.jpg",
+    "price": 599
+  },
+  {
+    "id": 4,
+    "category": "shaker",
+    "img": "https://i.pinimg.com/1200x/4b/e4/93/4be4938a0d0c63eb563a9ed4859d7857.jpg",
+    "price": 399
+  },
+ {
+    "id": 5,
+    "category": "gym_wear",
+    "img": "https://i.pinimg.com/736x/88/ae/f6/88aef6c8c1a858bb0baf8648d3e95e22.jpg",
+    "price": 1299
+  },
+  {
+    "id": 6,
+    "category": "yoga_mat",
+    "img": "https://i.pinimg.com/1200x/2d/31/96/2d3196f93b0cff0d1041328daa1b66b7.jpg",
+    "price": 999
+  },
+   {
+    "id": 7,
+    "category": "footwear",
+    "img": "https://i.pinimg.com/736x/03/14/a6/0314a689f1f75f1a86b8918ec5c7356f.jpg",
+    "price": 1899
+  },
+  {
+    "id": 8,
+    "category": "men_wear",
+    "img": "https://i.pinimg.com/736x/49/67/cc/4967cc89383462fbf621e4835a5b0a51.jpg",
+    "price": 899
+  }
+ 
+],
+  "protein": [
+  {
+    "id": 1,
+   
+    "name": "Optimum Nutrition Gold Standard Whey",
+    "price": 3999,
+    "img": "https://www.optimumnutrition.co.in/cdn/shop/files/748927065725_1_e4cd4d22-bde2-4538-9b43-c261ab1b24c8.jpg?v=1773663774&width=990",
+    "rating": 4.8,
+    "stock": true
+  },
+  {
+    "id": 2,
+   
+    "name": "MuscleBlaze Biozyme Whey",
+    "price": 3299,
+    "img": "https://img6.hkrtcdn.com/cdn-cgi/image/width=750,height=750,dpr=1/39079/prd_3907805-MuscleBlaze-Biozyme-Performance-Whey-2.2-lb-Rich-Chocolate_o.jpg",
+    "rating": 4.6,
+    "stock": true
+  },
+  {
+    "id": 3,
+  
+    "name": "MyProtein Impact Whey",
+    "price": 2899,
+    "img": "https://www.myprotein.co.in/images?url=https://static.thcdn.com/productimg/original/12365519-1685214981994881.jpg&format=webp&auto=avif&crop=900,900,smart",
+    "rating": 4.5,
+    "stock": true
+  },
+  {
+    "id": 4,
+   
+    "name": "AS-IT-IS Atom Whey Protein",
+    "price": 2599,
+    "img": "https://asitisnutrition.com/cdn/shop/files/ATOM_Whey_Protein_Isolate_Product_Front_Image.jpg?v=1776771464&width=1946",
+    "rating": 4.3,
+    "stock": false
+  },
+  {
+    "id": 5,
+    
+    "name": "Avvatar Whey Protein",
+    "price": 3499,
+    "img": "https://www.avvatarindia.com/images/product_images/1697552226_FOP.jpg",
+    "rating": 4.7,
+    "stock": true
+  },
+  {
+  "id": 6,
+  
+  "name": "Bigmuscles Raw & Real Whey",
+  "price": 2799,
+  "img": "https://www.bigmusclesnutrition.com/cdn/shop/files/gold_whey_image_PGW_website_2_jpg.jpg?v=1776865754",
+  "rating": 4.4,
+  "stock": true
+},
+{
+  "id": 7,
+ 
+  "name": "Muscletech Nitro-Tech Whey",
+  "price": 4499,
+  "img": "https://mybigwhey.com/wp-content/uploads/2024/09/NB-MUT-1015-15-01.webp",
+  "rating": 4.7,
+  "stock": true
+},
+{
+  "id": 8,
+ 
+  "name": "Ultimate Nutrition Prostar Whey",
+  "price": 3899,
+  "img": "https://dukaan.b-cdn.net/700x700/webp/upload_file_service/f7cc6d82-6cd1-490f-922f-0b17bf8e0b25/1b46a7a6-9402-4645-8237-9d70e149a752-720x-1.webp",
+  "rating": 4.6,
+  "stock": true
+}
+
+],
+ "dumbbell": [
+  {
+    "id": 1,
+    "category": "dumbbell",
+    "name": "Bowflex SelectTech Adjustable Dumbbell",
+    "price": 18999,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj91v4IWfSIhq84af4_uj7GLMXjU40hIknigpuLaNbDGy4Gf0yTjlUGyOa&s=10",
+    "rating": 4.9,
+    "stock": true
+  },
+  {
+    "id": 2,
+    "category": "dumbbell",
+    "name": "Amazon Basics Neoprene Dumbbell Pair",
+    "price": 2499,
+    "img": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b563ca77-f4cd-4e17-9977-705c9bd151d3.__CR0,0,600,450_PT0_SX600_V1___.jpg",
+    "rating": 4.6,
+    "stock": true
+  },
+  {
+    "id": 3,
+    "category": "dumbbell",
+    "name": "Kore PVC Dumbbell Set 20kg",
+    "price": 3299,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFphzNc1Q3c8V-9ZPKQfxPoOuEz4ADSQ-y0CZJrnPew&s=10",
+    "rating": 4.5,
+    "stock": true
+  },
+  {
+    "id": 4,
+    "category": "dumbbell",
+    "name": "Lifeline Rubber Hex Dumbbell",
+    "price": 4599,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfHBFKKqirq07Binl56sBzeUyZ8tv03aFCd1Mb86ZjnlpyZvlm4bJCRo_N&s=10",
+    "rating": 4.8,
+    "stock": true
+  },
+  {
+    "id": 5,
+    "category": "dumbbell",
+    "name": "Boldfit Adjustable Dumbbell Kit",
+    "price": 5499,
+    "img": "https://m.media-amazon.com/images/I/71yj02KUVOL._AC_UF894,1000_QL80_.jpg",
+    "rating": 4.7,
+    "stock": true
+  },
+  {
+    "id": 6,
+    "category": "dumbbell",
+    "name": "USI Universal Cast Iron Dumbbell",
+    "price": 3899,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcvaCkSdoAlHiIez1pOh870lOH6umZU6qm1-w3PNas2X0JllVVm5pPmKY&s=10",
+    "rating": 4.5,
+    "stock": true
+  },
+  {
+    "id": 7,
+    "category": "dumbbell",
+    "name": "Strauss Vinyl Dumbbell Pair",
+    "price": 1999,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlSYgcTnZBQfcE7aERzs2T1ezVzsbVouuFY7SG_3-ualZIhtLF2mHJ0MA&s=10",
+    "rating": 4.4,
+    "stock": true
+  },
+  {
+    "id": 8,
+    "category": "dumbbell",
+    "name": "Aurion Chrome Dumbbell Set",
+    "price": 6999,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAOv53QP8zQGAR3jTgwgO3_1Ol-AsYy90Sx3F502E2qNmYEF2aANpRwV4&s=10",
+    "rating": 4.8,
+    "stock": false
+  }
+]
+,
+
+   "gym_gloves": [
+  {
+    "id": 1,
+    "category": "gym_gloves",
+    "name": "Boldfit Gym Workout Gloves",
+    "price": 499,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq2jAOchPZqccMx4b-iUaThdUpfSZ255wSXDlDZShgXD5NzaXMtt0XcxM&s=10",
+    "rating": 4.5,
+    "stock": true
+  },
+  {
+    "id": 2,
+    "category": "gym_gloves",
+    "name": "Strauss Fitness Gloves",
+    "price": 599,
+    "img": "https://strausssport.com/cdn/shop/files/71Y4QdR0yUL_medium.jpg?v=1738374342",
+    "rating": 4.4,
+    "stock": true
+  },
+  {
+    "id": 3,
+    "category": "gym_gloves",
+    "name": "USI Universal Weight Lifting Gloves",
+    "price": 799,
+    "img": "https://m.media-amazon.com/images/I/71FNQdZDnAL.jpg",
+    "rating": 4.7,
+    "stock": true
+  },
+  {
+    "id": 4,
+    "category": "gym_gloves",
+    "name": "Nike Training Gloves",
+    "price": 1499,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ7jKz1DQFiE27V0LOX_n-IixoFLwzqZG5oSOaOwy7z7XX6PAWQpB-mYM&s=10",
+    "rating": 4.8,
+    "stock": false
+  },
+  {
+    "id": 5,
+    "category": "gym_gloves",
+    "name": "Adidas Essential Fitness Gloves",
+    "price": 1299,
+    "img": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f0f54799-cbbe-491b-804d-598fbfd02bb1.__CR0,0,1772,1096_PT0_SX970_V1___.jpg",
+    "rating": 4.6,
+    "stock": true
+  },
+  {
+    "id": 6,
+    "category": "gym_gloves",
+    "name": "Fitkit Workout Gloves",
+    "price": 649,
+    "img": "https://rukminim2.flixcart.com/image/180/240/xif0q/sport-glove/e/r/e/ambidextrous-s-crystal-2-0-fitness-glove-gg-710s3-60-7-5-gym-original-imahfjdwr4s39grg.jpeg?q=90",
+    "rating": 4.5,
+    "stock": true
+  },
+  {
+    "id": 7,
+    "category": "gym_gloves",
+    "name": "Protoner Weight Lifting Gloves",
+    "price": 699,
+    "img": "https://m.media-amazon.com/images/I/616CIuRpRGL._AC_UF894,1000_QL80_.jpg",
+    "rating": 4.4,
+    "stock": true
+  },
+  {
+    "id": 8,
+    "category": "gym_gloves",
+    "name": "Cosco Gym Gloves",
+    "price": 549,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9U1eCDd5YRrLWLicR_ki1KWubEKoxyoYtQeQAkBJg0t8lenmuIitSU-o&s=10",
+    "rating": 4.3,
+    "stock": true
+  }
+],
+
+"shaker": [
+  {
+    "id": 1,
+    "category": "shaker",
+    "name": "Boldfit Protein Shaker Bottle 700ml",
+    "price": 349,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbVVl-ULt-1JejEPOmr9dPvDbqDVtzMGa9MzhSbAaA9No9x6JzNjhV0lc&s=10",
+    "rating": 4.6,
+    "stock": true
+  },
+  {
+    "id": 2,
+    "category": "shaker",
+    "name": "MuscleBlaze Gym Shaker 750ml",
+    "price": 399,
+    "img": "https://img8.hkrtcdn.com/43992/prd_4399197-MuscleBlaze-Stainless-Steel-Shaker-Blizzard-Blue-700-ml_c_xxl.jpg",
+    "rating": 4.5,
+    "stock": true
+  },
+  {
+    "id": 3,
+    "category": "shaker",
+    "name": "Fitkit Leakproof Shaker Bottle",
+    "price": 299,
+    "img": "https://m.media-amazon.com/images/I/61csKjPEvdL.jpg",
+    "rating": 4.4,
+    "stock": true
+  },
+  {
+    "id": 4,
+    "category": "shaker",
+    "name": "USI Universal Blender Shaker",
+    "price": 499,
+    "img": "https://www.bodybuildingindia.com/cdn/shop/files/Halt-Power-Cap-Heavy-Blender-Ball-Shaker-_700ml_-Halt-131325343.jpg?v=1777293935&width=720",
+    "rating": 4.7,
+    "stock": false
+  },
+  {
+    "id": 5,
+    "category": "shaker",
+    "name": "Protoner BPA Free Shaker",
+    "price": 279,
+    "img": "https://m.media-amazon.com/images/I/61vT0BGttfL._AC_UF894,1000_QL80_.jpg",
+    "rating": 4.3,
+    "stock": true
+  },
+  {
+    "id": 6,
+    "category": "shaker",
+    "name": "Nike Fuel Shaker Bottle",
+    "price": 699,
+    "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQWeKIv08Y1BJcmvMmHgv31yIO6VHMm6XPk3gx3g0XPMYtEvwAsiD28kx4LIGWFMdTmkF8xwOoqJn9d5keBumt9BQVDcN03LEHP2vPTjt7FKz-R65nOgMtG",
+    "rating": 4.8,
+    "stock": true
+  },
+  {
+    "id": 7,
+    "category": "shaker",
+    "name": "Adidas Sports Shaker 600ml",
+    "price": 749,
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTbDQN86zcsaYj8covRHTNpZM9captQVoejliZqwp9Q17RgyfZTou_xOkmrIY-GhSWB36gHtVmFEdYqoOLpD4vVUm7kED_8D8iNi3vYGi7S39SLvNrJtSsj5w",
+    "rating": 4.6,
+    "stock": true
+  },
+  {
+    "id": 8,
+    "category": "shaker",
+    "name": "Fast&Up Protein Mixer Bottle",
+    "price": 329,
+    "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTeHYIoRzFVgtW2xAbeR_YK3BfS0_MWMOyEZ6qhlU2Rn1KgxNTP3CHKFKSldlO4uuKYIBMoaDLCMNhsb1xeNy2qCm96QBvgbpu-mirGnQ6h5-q8BdzgdeUwag",
+    "rating": 4.4,
+    "stock": true
+  }
+],
+      "gym_wear": [
+  {
+    "id": 1,
+    "category": "gym_wear",
+    "name": "Nike Dri-FIT Training T-Shirt",
+    "price": 1499,
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTp7q_ReUdgBGpqRWLsyo2-f9X3Rf3QM8rCMLI6mRg-edvbFFs4XosZ7XS-o_OFKlM98BczxjaegucnQLTQQ7yz20OQaPYEWV_K5Aspmm7uQa6teBhVJYMpPg",
+    "rating": 4.7,
+    "stock": true
+  },
+  {
+    "id": 2,
+    "category": "gym_wear",
+    "name": "Adidas Workout Shorts",
+    "price": 1299,
+    "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTNaL3rtlGcF2wP18A0XbG9Jlgs4O4jtXYxvxy0e10Nh4qyz_4M1QuxkByFvGNpMxxSTFuQYH6HsEb9Wcz2lBYqbvbltiE0Ip5lsD4dsdMGbrGG4czeMeYGQ_I",
+    "rating": 4.6,
+    "stock": true
+  },
+  {
+    "id": 3,
+    "category": "gym_wear",
+    "name": "Puma Active Track Pants",
+    "price": 1799,
+    "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSSKOt_6AlpodV1GHP_10nqebBsQ6BPM2oPtdrIZ9z4YizVkHWlWlXLq2KXFkxf41iG9NSjCFTyQ0yO4sMUbFD9IOm9ElBvJC3WZ-kg4cYTU_G2bleUtk3Nsw",
+    "rating": 4.5,
+    "stock": true
+  },
+  {
+    "id": 4,
+    "category": "gym_wear",
+    "name": "HRX Compression T-Shirt",
+    "price": 999,
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR2JPYOHQ7VxH1PVNNbJLlNDXQIFV5UUZjpq08uGxQmzbHX_gwY2oJAld6Xy1uU9VIKGc61-9tdPj_hSP9kLt8BxqPsoO-K55WhG-eSi6o",
+    "rating": 4.4,
+    "stock": true
+  },
+  {
+    "id": 5,
+    "category": "gym_wear",
+    "name": "Under Armour Gym Tank Top",
+    "price": 1699,
+    "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTYDPZ8O8ghpsBtCmmCb8smHgiCA6Tf4UzM-sSlXcyMc_77-jTQCiMGsAusR4q1W9zlAKyG9_i0BnzMEo9LsCnRReeCqwzL46DqF2u_-yaUe1ie6LjxL0o9Ig",
+    "rating": 4.8,
+    "stock": false
+  },
+  {
+    "id": 6,
+    "category": "gym_wear",
+    "name": "Reebok Performance T-Shirt",
+    "price": 1399,
+    "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRqPSKR2fVfvRe7hofnq4yfryrFONLJBuK8yKfmp9X5jCA3o43tKhyNiFD0dFtfJAcbthcR89ak_aM4piN4eiNENIA6Fm7VwU-CGePWu2qgFtmGDQiBEiD7",
+    "rating": 4.5,
+    "stock": true
+  },
+  {
+    "id": 7,
+    "category": "gym_wear",
+    "name": "ASICS Running Shorts",
+    "price": 1199,
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR5fTKzsXVAKE9jEGZ5O5x9QucQ03uWj920mRx97tRegScUaisHbYDwPq6itdMzWVQyyJ3xMUFlm5tk-sBITTaclocbqx7aCgakDc7CR7zYIn2fSqKzsQMAxQ",
+    "rating": 4.6,
+    "stock": true
+  },
+  {
+    "id": 8,
+    "category": "gym_wear",
+    "name": "Cultsport Training Joggers",
+    "price": 1599,
+    "img": "https://www.boldfit.com/cdn/shop/files/Artboard1_4ae1aed0-0ba4-4c35-a725-92994f292891.jpg?v=1738324918&width=1440",
+    "rating": 4.4,
+    "stock": true
+  }
+],
+"yoga_mat": [
+  {
+    "id": 1,
+    "category": "yoga_mat",
+    "name": "Boldfit Anti-Slip Yoga Mat",
+    "price": 999,
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTlHBAx3NCjahYw5HJHpIL7N8Fewdz2xI4JoF8pEiyVpRCu5ON_H5H_uOXzczpR1pb3y917Ht15MHV1zHl74FEoMG8XLQbK7qZce-NeW8rZngiUQdZQpmdmSw",
+    "rating": 4.7,
+    "stock": true
+  },
+  {
+    "id": 2,
+    "category": "yoga_mat",
+    "name": "Strauss Premium Yoga Mat",
+    "price": 1199,
+    "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRsggCDrf31Ldr-BRG7LwYt19Q8u7oRe8tZ3O7PwxaEAl-r8BCMOIpCfn9AW5o749tz1aFx2yx7t3G4717d5uRCrBMVGEL9OuBKn-UIjbQq9ZbVcRuGWjZh",
+    "rating": 4.6,
+    "stock": true
+  },
+  {
+    "id": 3,
+    "category": "yoga_mat",
+    "name": "Fitness Mantra EVA Yoga Mat",
+    "price": 899,
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRn8j_Wd-kU-xrjRH2qU48KMqB_CntHaTMJlXtiaasUMp5NLBJOXAGJvSH4vFO_tHgMcx6YULiX1ZNYrBw1gtyeHAChryr7AT1sdS4YFvQm7THKd6Pjrw6UDA",
+    "rating": 4.5,
+    "stock": true
+  },
+  {
+    "id": 4,
+    "category": "yoga_mat",
+    "name": "AmazonBasics Exercise Yoga Mat",
+    "price": 1299,
+    "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTcSvSZtHRNlEE7U_k-TU6ZyfrVCqCofluKvOSloWl-syPUidjwyDWn7CS4l54plcQTQe5fJfmpk0EL4Qy3Y02_qd1z-ZLcsVQRnma4BGGqpjLW27jvR1wZ",
+    "rating": 4.8,
+    "stock": true
+  },
+  {
+    "id": 5,
+    "category": "yoga_mat",
+    "name": "Nivia Fitness Yoga Mat",
+    "price": 1099,
+    "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT98TkLFOuDrX_6PDA6wtU9uZMCiQX_M6KKduKk7vARdw5Cnnk5b08WSlYi2g6-6ZrKINIyFBGnuAVxrea-G-p7hPEtjkqXNn5M34SDb8g1LeTVn6w4Y7EbYw",
+    "rating": 4.4,
+    "stock": false
+  },
+  {
+    "id": 6,
+    "category": "yoga_mat",
+    "name": "Adidas Training Yoga Mat",
+    "price": 1799,
+    "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQKelMTfjNRhxwYIWZ7-PtwKiPS6FEn3Cw3ApYIlrtRYlI_k1Z1W2-8RwYv9WgFuhunZr5-Jrymj-ynbYZtpkWT0D3pXKWb0sd1bjdOxlje54DD6My-e9260Q",
+    "rating": 4.9,
+    "stock": true
+  },
+  {
+    "id": 7,
+    "category": "yoga_mat",
+    "name": "Puma Fitness Yoga Mat",
+    "price": 1599,
+    "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRk9KVQWVe4nW2ykgmEAO2oMbF2PFrj73RnVHjld31bac1L2AUn-KGDxqmnZryNbzCiPFgsbaNsHu1Vm7mwv1amyI3yvAmhv0rYAxtFnO26TAzIunMyBWne",
+    "rating": 4.7,
+    "stock": true
+  },
+  {
+    "id": 8,
+    "category": "yoga_mat",
+    "name": "Reebok Comfort Yoga Mat",
+    "price": 1499,
+    "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQErP1R_eDJoaUGwwwvPGbc9Tup_hAweYrVH8lviQWj4MXP_yKX-yl3RTRtrX6wrbeMN0qs_hPxZSQbMp6hCf-s2JWI-gTgmRQhCAIYQIH8fbV8jBW0p7si",
+    "rating": 4.6,
+    "stock": true
+  }
+],
+"footwear": [
+  {
+    "id": 1,
+    "category": "footwear",
+    "name": "Nike Air Zoom Pegasus Running Shoes",
+    "price": 5999,
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSy1Hy_3Ozor5EdIu3vc_6GSfAYCLtiZJ7BohtNSOGh4wAspnehSoOhSuev94IdTOPq2CEuZbd9p1d_GNAJGaMJgw5Y43x8sLdovXnTXvwbMECe4ZjwSEJkhA",
+    "rating": 4.8,
+    "stock": true
+  },
+  {
+    "id": 2,
+    "category": "footwear",
+    "name": "Adidas Duramo SL Running Shoes",
+    "price": 4799,
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSSRp8uoQJYN-d2Zpdkm8-FHNnYGSNb1xLyRGQNQ--TtWMN_gF-aCJTsKrCoartGF2XVpOaYXleygri3qA_29ZxQUHF9ihYunyNj29aBWfcrGOoqZ_vi6DCk-g",
+    "rating": 4.7,
+    "stock": true
+  },
+  {
+    "id": 3,
+    "category": "footwear",
+    "name": "Puma Flyer Flex Training Shoes",
+    "price": 3999,
+    "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQMlKpBhA2NssEsY2Fmi9Oye4SUmnZnuO8HjgtzWybDTSBbxqAOpkItvr2LuPWd4cV1_8_pZBE5XTue5c1DElZC5S73rMOfJi_2sHO8k036Ph6nQ8O1_FVSfA",
+    "rating": 4.6,
+    "stock": true
+  },
+  {
+    "id": 4,
+    "category": "footwear",
+    "name": "Reebok Energen Lite Sports Shoes",
+    "price": 4299,
+    "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJXgCKfJkJ7t2huBkGleU8Q-nt1zY8BspqdNq7qGK12u636L_kv4fesISLKSFc-xVQ5fTVGujEj3JNa6LSII85TwgZ-uBrLgWFQv6ch92ED2G3d65LMcgbVDuo",
+    "rating": 4.5,
+    "stock": true
+  },
+  {
+    "id": 5,
+    "category": "footwear",
+    "name": "ASICS Gel Contend 8 Running Shoes",
+    "price": 6499,
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRXZ8Oi9B8O5Fw7NGRZ_s__Tl82vXJkiWpb-Oj0PoEFSbr-gbDCnVWA7-ldTrMUTIVGxec_G-BUZXEk2gasYFGZUz3G306QCVcXtSZc1BX21vFW-wqnGwWF",
+    "rating": 4.9,
+    "stock": true
+  },
+  {
+    "id": 6,
+    "category": "footwear",
+    "name": "Sparx Men's Running Shoes",
+    "price": 2499,
+    "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTQBF-r1LgtIxfPMSUR6gI1FCWX0ftzFZde2tOoyj3Hs0ogf3W1OjTs0b0707pInUEn0AbpfgvYctkGIeAZ6akzw7JFfnC1Pv_ZMXAuka9yKvSSnolEgdix",
+    "rating": 4.4,
+    "stock": true
+  },
+  {
+    "id": 7,
+    "category": "footwear",
+    "name": "Campus Nitro Boost Shoes",
+    "price": 2199,
+    "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSg5xrJGetQ4ISRnmwnWdhJqeQoAc5XuuxRNIvfzxoePz9jOBpj9jwbyShoMTjz0iZ54NqWWkJLh2ENQm_f8XVJfJcjXIetOSrae0ve9-27CvbrImzLG0deqmw",
+    "rating": 4.3,
+    "stock": true
+  },
+  {
+    "id": 8,
+    "category": "footwear",
+    "name": "HRX Active Sports Shoes",
+    "price": 3299,
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7A9dm3UoTyz3wgoOFO5_hnG1FV7pf8QLzveHDOjF1sW0jnJmzA4C1FYbPogvSHYNdH7K1ET1kjto0v1l5VVxw29XoPvjoxBW4cgvT3Zfpu1N2nK7Z0Oc8",
+    "rating": 4.5,
+    "stock": false
+  }
+],"men_wear": [
+  {
+    "id": 1,
+    "category": "men_wear",
+    "name": "Nike Dri-FIT Training T-Shirt",
+    "price": 1499,
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTp7q_ReUdgBGpqRWLsyo2-f9X3Rf3QM8rCMLI6mRg-edvbFFs4XosZ7XS-o_OFKlM98BczxjaegucnQLTQQ7yz20OQaPYEWV_K5Aspmm7uQa6teBhVJYMpPg",
+    "rating": 4.8,
+    "stock": true
+  },
+  {
+    "id": 2,
+    "category": "men_wear",
+    "name": "Adidas Gym Training Shorts",
+    "price": 1299,
+    "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQj-bUebTyAm3djxGCsxErVClpob3U2dBTw_Gfg7rG0JnA4tViUgA2lrjTbZdXG5nBd5vJLHLU_juewxWcocW-EYV7OnSa51sQYlyOuCThLuAXi-gfKVs2phA",
+    "rating": 4.7,
+    "stock": true
+  },
+  {
+    "id": 3,
+    "category": "men_wear",
+    "name": "Puma Active Track Pants",
+    "price": 1799,
+    "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSSKOt_6AlpodV1GHP_10nqebBsQ6BPM2oPtdrIZ9z4YizVkHWlWlXLq2KXFkxf41iG9NSjCFTyQ0yO4sMUbFD9IOm9ElBvJC3WZ-kg4cYTU_G2bleUtk3Nsw",
+    "rating": 4.6,
+    "stock": true
+  },
+  {
+    "id": 4,
+    "category": "men_wear",
+    "name": "Under Armour Compression T-Shirt",
+    "price": 1899,
+    "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTwsum_jLW5PdFc5DcPjkHaMt7tMunS3_FyDT5A2bMmzvhaWw71YAsnD_EoOOvUo0-_i6hwMtxc9H53XG8-mpOhqXRhuMaLLPLcSSGRRC9gmGLzXU8ky0QXrQ",
+    "rating": 4.9,
+    "stock": true
+  },
+  {
+    "id": 5,
+    "category": "men_wear",
+    "name": "HRX Workout Tank Top",
+    "price": 999,
+    "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSBCEYI7iASyZah5V-w51NiMy35OpTwPEcXWE3gBaD4Yj8ddwZBX7W9slMDgFu6B06pOnbzSSYDMBDVE0l3v7fefol9r3p99B5TV9YuuBaKiW7B_VDIp9KJuw",
+    "rating": 4.5,
+    "stock": false
+  },
+  {
+    "id": 6,
+    "category": "men_wear",
+    "name": "Reebok Performance Gym T-Shirt",
+    "price": 1399,
+    "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS-UWI3TNFn7zJO0f2JqI4hEDNGKYc0qU76xIyWk0_On2kW15srkzoz3IJfrcjqd0tEIK7dfv3_7ahHAP7TsgdMRa-KGoGzX98YDj5jqXGGMwTQvBd4aMiH",
+    "rating": 4.6,
+    "stock": true
+  },
+  {
+    "id": 7,
+    "category": "men_wear",
+    "name": "ASICS Running Shorts",
+    "price": 1199,
+    "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ1mq3GTVLJv2a3jTsYwPV-2DwPKUuicIviMDSM92JWZd2CzG4azfmrrlssDYjrQKIvriuLwJp7wst5KtFuV25qFPnQG5LBddt105emhEVH5gbHtNq_X5g7kw",
+    "rating": 4.4,
+    "stock": true
+  },
+  {
+    "id": 8,
+    "category": "men_wear",
+    "name": "Cultsport Training Joggers",
+    "price": 1699,
+    "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQLLHj0KZ52T_kmBqoeVMrr2SnBE0omXLXartnMGZFGZWApP_aiaIku8pkuzEnaHRjHteJGegSSG0MMywo0PxSKN3vdIRmHADLqN5V3gxLBer42Q9XsYtoN",
+    "rating": 4.7,
+    "stock": true
+  }
+ 
+],
+"mens": [
+  {
+    "id": 1,
+    "category": "gym_tshirt",
+    "img": "https://i.pinimg.com/736x/4f/a5/52/4fa5524c8bf6968db87ed485b28d14c9.jpg",
+    "price": 999
+  },
+  {
+    "id": 2,
+    "category": "compression_tshirt",
+    "img": "https://i.pinimg.com/736x/7d/03/78/7d03780f0ee69368661f19b6f1fb8805.jpg",
+    "price": 1299
+  },
+  {
+    "id": 3,
+    "category": "track_pants",
+    "img": "https://i.pinimg.com/1200x/d5/60/65/d5606599b68e2ac801a2b45b1fcfce4a.jpg",
+    "price": 1499
+  },
+  {
+    "id": 4,
+    "category": "gym_short",
+    "img": "https://i.pinimg.com/736x/67/48/c9/6748c980f1d7939bf8e7bc31f2d502c8.jpg",
+    "price": 899
+  },
+  {
+    "id": 5,
+    "category": "hoodie",
+    "img": "https://i.pinimg.com/1200x/09/78/e5/0978e5d37df841cb3aad5da87f9b26e5.jpg",
+    "price": 1999
+  }
+],
+"gym_tshirt": [
+  {
+    "id": 1,
+    "category": "Gym Performance Tee",
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQrVEPe8B8RhDdyM9cbJczcInCR3yhT9DBcf3NhcXgyenSlogiZvCAUF6Woo_Ez1hBlexWVe2qjknz07ngomMqq-nNHz-ag",
+    "price": 899
+  },
+  {
+    "id": 2,
+    "category": "Dry Fit Training T-Shirt",
+    "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSSpnwxsubNHewehEtuXwISKwbK3iZyHBkVvnCEBeE4K8CAn_8Wy1N2d_HM4mjXjrD7OBnFCIiTKXEmNLcGnoKlFwBTwTRBOLCQ7imbnMEzTzbZhsrhoyS1wA",
+    "price": 999
+  },
+  {
+    "id": 3,
+    "category": "Compression Gym T-Shirt",
+    "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRDo2Y-54tMOW4la2lEbmUGUxnyPHLmMB07oporYugmdFY25zNQ0kYEDtUKWI-eQCjM5m7qeAyvK6dts_ZFYW8VdTSThRoia0IN9qZWCzfA1Et4Nd10JvQsDA",
+    "price": 1199
+  },
+  {
+    "id": 4,
+    "category": "Athletic Workout Tee",
+    "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS_N4yEYLD3bW-EnoHFM8FBx8sfUIxdc7ntkiFXrKcnjcDYqQNi8z-KvkGefGm04DiiaZP1z5WKhPqNBme6xJaw2SanU-QfwD2bWCOXGloHOoFl5n1PUFaOCw",
+    "price": 1099
+  },
+  {
+    "id": 5,
+    "category": "Breathable Mesh T-Shirt",
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQMvVRiMgzCptrFPpGPzhC6Fikvom3w0J_qFB_amIOGvml5_0wlDb0WaBBOHVKsRw9rQy7QZpyAHSCbxOOJX4QlHRvcRiq9z6yITMmsnilXTnYu6DoqhQ0Ghg",
+    "price": 1299
+  },
+  {
+    "id": 6,
+    "category": "Quick Dry Fitness Tee",
+    "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT0xVyZKyNldDuOUj7jFl9BdUY_VRQB5VF21mCZOY0sUwT4GQTLEYMlDQPbc7Rgyt2pEvbewFsBVQj2pDEYfE5VNwFP0cUjGlqwUu20I2OvTx3Ik2dABLpT",
+    "price": 999
+  },
+  {
+    "id": 7,
+    "category": "Stretch Training T-Shirt",
+    "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSs2Hun-SX_vnVry2Yk2sqH3FvuJ2qvaoGNO-W_bRJ9nXDad_CFhFRtJq3b48uC5eyvxEirBikq72CuLmrzBUj_8BRjjQ9sUDM29sWe8-QX6V4J4OeC08p4yg",
+    "price": 1399
+  },
+  {
+    "id": 8,
+    "category": "Premium Sports T-Shirt",
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRuUBvQFdFrQQjHmPkZ3vuIbQ8Oe77nEQLh97TY8TSovx7EsifBds521qLMTGyxozMnmhcp62p4AwEf9ZL3HsuF13hDdJBtVgaN8g3kzi0",
+    "price": 1499
+  }
+],
+"compression_tshirt": [
+  {
+    "id": 1,
+    "category": "Compression Fit T-Shirt",
+    "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTGIlFxn25mZSwbYt55FqTAubRa-gaQHlS6G6NnxIqEwJfPbH8LUNwJ3_WToH33Jds4bCSJsAeBkUd5RdY_xKoeTmb1RiNAAawgsnsYbtu58GgXRBPDCZztluk",
+    "price": 1199
+  },
+  {
+    "id": 2,
+    "category": "Pro Compression Tee",
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSPbREZfMryQ8UTOBY5SlmYfjJMhPwa6oZrJxgHe6lxYm5RLj0cdq3MkqmeSVt2EXDAtOOmsjn9mUBN2B-ohEDtIdvdyuzExT08eylZLqrbjESCkvMo9YsOvQ",
+    "price": 1299
+  },
+  {
+    "id": 3,
+    "category": "Dry Fit Compression T-Shirt",
+    "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTGIlFxn25mZSwbYt55FqTAubRa-gaQHlS6G6NnxIqEwJfPbH8LUNwJ3_WToH33Jds4bCSJsAeBkUd5RdY_xKoeTmb1RiNAAawgsnsYbtu58GgXRBPDCZztluk",
+    "price": 1399
+  },
+  {
+    "id": 4,
+    "category": "Muscle Fit Compression Tee",
+    "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRDo2Y-54tMOW4la2lEbmUGUxnyPHLmMB07oporYugmdFY25zNQ0kYEDtUKWI-eQCjM5m7qeAyvK6dts_ZFYW8VdTSThRoia0IN9qZWCzfA1Et4Nd10JvQsDA",
+    "price": 1499
+  },
+  {
+    "id": 5,
+    "category": "Long Sleeve Compression T-Shirt",
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSSFId-ouW4xqFp1-trBDjRJ1zuLiHJ6Y5TY2fdSazagySELK2aNN1syhum7dMuuZzenH0Ud8JNHvwiCnFGejFFjD9zwatBII-fJYIwgaM",
+    "price": 1599
+  },
+  {
+    "id": 6,
+    "category": "Training Compression Tee",
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT0dnob7t7-g2a5XkhmGtqoUyLkfUhhOCQo96qw3Z8SD81__F2bQrN15gP-dZorKp1CT_bwn_Ez5mmpJldLAJ6q22le-8T1kv5cB6I6seV1pr_Yn-5eEzv1",
+    "price": 1299
+  },
+  {
+    "id": 7,
+    "category": "Athletic Compression T-Shirt",
+    "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRFOTcngk5965Ec8lx8Sz8iQ7XBJ0DJhwdI5Y5ndIcLaL4ipdFh5fvSuEKUtQv0RgQ6YKhnQkgRmAxwCB2YIRr_a64xFGsgMSVay--AJu0fiTL03mZSGvMhUg",
+    "price": 1399
+  },
+  {
+    "id": 8,
+    "category": "Premium Compression Tee",
+    "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQxhTLSL-XdgkA2DKfFdagc6bVMGTDP19jAhrf-9gE-sioVmNRWYkkZh2vjyXsvmNfQC1KLjXbonAc6hI81IL7Tyusmdh-kDBkdeQvWGPB4U_m2bcFKbDgv",
+    "price": 1699
+  }
+],
+"track_pants": [
+  {
+    "id": 1,
+    "category": "Slim Fit Track Pants",
+    "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQyI8XMISNlYYvrkU7MzW98xJiQE7F6Vh7QgV8l8u5EAatWSPQXJ6lXBS53aY3qk1qcAwiGUCFBX-z2v4uozkX8OFo6A-NgjLXSRQ3wS2_fka3Gbd_qpJQuSw",
+    "price": 1499
+  },
+  {
+    "id": 2,
+    "category": "Quick Dry Track Pants",
+    "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQDIXMcdCC-CgJbpEeTs9Av97dbhp4MemjdGaU84t0mT_JGnSnMWa3xqdu2wys4Dhu32onyPMb9BDKxcn-_ZI4Cp8QHNdmJEoYT1JNK5VwvVfemtTrPJIgK2w",
+    "price": 1599
+  },
+  {
+    "id": 3,
+    "category": "Training Track Pants",
+    "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRwuKf4-jO43cPSX99adeNXpNJsTERcPDd5Irf0peg0uRkx-lvQcvEGMbQvSA_QAO02xGNT5CD1bQXkciyZkRwrLsNwSUkNOWRJxzMsiZ34ufIO3HoHnqdi",
+    "price": 1699
+  },
+  {
+    "id": 4,
+    "category": "Jogger Track Pants",
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSEXKjOYVJ4E_oqBL3n0CDuGo_AttPC17d-u2foXkfz1xDhinEvTkm3iIIbRydIwMNsZohHuHgHKB0CxRohg5E082lPMJk9MAjiVMSYjN4",
+    "price": 1799
+  },
+  {
+    "id": 5,
+    "category": "Stretch Gym Track Pants",
+    "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcScg0wJSHfndIsGWAuDVvnw5gw0mN2CUuwuR2_g5kCerCr5i6Ozam3jFuV9jBjVs_fYbobTICT2Tjf4ru8ydaxbv1y0uacqBi8LxKvhLESIUXBkWtdVDPMrvw",
+    "price": 1899
+  },
+  {
+    "id": 6,
+    "category": "Performance Track Pants",
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTC4bOtbqh3oKePDaQ1x93fJMIra5dCYUN34X0BHdekiiUjHsvDVAnNjmZ9F3r8CJEI2jX9_Lqq-S8qvN89l2UImQGEvACgYgFvn0nv_PFO_dsL9_jiZLPJaw",
+    "price": 1999
+  },
+  {
+    "id": 7,
+    "category": "Sports Training Pants",
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSLOdqi0S5kMxCb_RHVkNFQVxdZ0kV0KGvWq6cwLiGo5OVY15H6Jw_cWVU62sNdJeuGdPuvaJDIztOLfP96AQktsOI6_WJIBgupQGpxeL4",
+    "price": 2099
+  },
+  {
+    "id": 8,
+    "category": "Premium Fitness Track Pants",
+    "img": "https://m.media-amazon.com/images/I/717iIuWcBTL.jpgg",
+    "price": 2299
+  }
+],
+
+"gym_short": [
+  {
+    "id": 1,
+    "category": "Training Gym Shorts",
+    "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS8tDGoNE_xmDuIT99U_yJcOOJ1BgHuadSUdsR7MLYTPT7M-VxhIB81Y4K4uM961dtMPnObJ0OFjyRrLDlD7Hfpocn_Vw76cpumsfOFuu8",
+    "price": 799
+  },
+  {
+    "id": 2,
+    "category": "Quick Dry Gym Shorts",
+    "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcROyf9KRgWt1IbdMlVNdQIQorTOLNgHu3ZiB47xawWeP9tnBgUprKY46A7J0WgvWUgytSs18DZShyhxUk7uj18ZgXKrtyG9yanBzG3Q8NkOyg5lxTsgaO4U",
+    "price": 899
+  },
+  {
+    "id": 3,
+    "category": "Stretch Workout Shorts",
+    "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTXWdUpOPhoP7oTS8l_6SCuaYMXKJkeghdFZkF-eP3E83AYyL3z31ogIFq7GX7wMlHJhk-MhpMzShUWfNPeIFbts-g9YbunNWpSoffzETdPIsu-cU53jTUMuQ",
+    "price": 999
+  },
+  {
+    "id": 4,
+    "category": "Running Gym Shorts",
+    "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTWyQwKqHkik7dFad0liGjn3qa2rs_Af9DOp1dqeko-aR6N40DN2kYFAyVFDxpqpy-Ya4_oJJTWyibOCcgATk0wA25aiEK9EY0AvPFIVCZCze-Tt1r02Uo__A",
+    "price": 1099
+  },
+  {
+    "id": 5,
+    "category": "Mesh Training Shorts",
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSdTWrZRHCdxSxpp9U-WtbSAeNEbiIFR9RgNmsjAsEHYeLHqvMuofXGf90e5RxFjF0jJoXnfT0QMjdLjt9E5WQL0goqtz0OTJeDnSaeeCYSdFFN0YgnNjwSyw",
+    "price": 1199
+  },
+  {
+    "id": 6,
+    "category": "Performance Gym Shorts",
+    "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTWQt2164r1vE-NhIBf4zkFpU6XbIPs5SOhPphjV9yMU7DsSKZJwIVZYX9pqsNQBdjrEBe1aC1jbWlJgJ4Zsce_ASp9mvWtLwV4BxrGvZBE1yHQ8GILRAB1",
+    "price": 1299
+  },
+  {
+    "id": 7,
+    "category": "Athletic Fitness Shorts",
+    "img": "./src/assets/mens/gym_shorts7.jpg",
+    "price": 1399
+  },
+  {
+    "id": 8,
+    "category": "Premium Sports Shorts",
+    "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSsn6g8gtgtEtT4e2rnl4lb4uWt8WWeBnDNNiVoDgo8BMS9PykvG3IK-9jPzYP4b-oNz23AjVDee38XHtRQ3RH6LMTLSDL-mYrNck1iTafoEvKPXt9AZtn8nQ",
+    "price": 1499
+  }
+],
+
+"hoodie": [
+  {
+    "id": 1,
+    "category": "Classic Gym Hoodie",
+    "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRRRXJw_fswWrb9vbk3U6a-xRDjRRIroIqSGXy1m6hAhiqeWRPXQ8L49eHOfxS8b6az7Bx1MongGEpf-8uiH_JJziYTtERcIJttWcia14gZQhoL6P5Z6n_yEQ",
+    "price": 1999
+  },
+  {
+    "id": 2,
+    "category": "Zip-Up Training Hoodie",
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRnVsy4x_YuRjHWWLFKgH1Xfo1enoesJX-ViD9ZqLz4J7uQziLBvscZQiR-i5VbgNE5uwMZnD7qu8-lKIsHove6rk6W4slXAA2pTwRE6F2opqLoMis-6Pgo",
+    "price": 2199
+  },
+  {
+    "id": 3,
+    "category": "Fleece Workout Hoodie",
+    "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRgiq2niQ7q0UWphXF8DhrAYAXDudxR7zGHWWoqTFIE945rVbhBgc68tj7CdDxX_nObdI4ozjvZpZ_echzTmrdPLcduaJ2DcQ",
+    "price": 2299
+  },
+  {
+    "id": 4,
+    "category": "Oversized Gym Hoodie",
+    "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQgtbarw2mZk-GQpRNORaKO9LPWKj7DlyIwPksjXWjoZo9GTviIucHC0s3Dy8Je-0szDSfikdd2C77YSMG8IHd_-mCrE94W_vWEI8UDDU2EQv62hxxArtB3QA",
+    "price": 2399
+  },
+  {
+    "id": 5,
+    "category": "Performance Sports Hoodie",
+    "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSbQdJqMtpcE9m_AJqc2Nk3ZTgWtsZGkMkBWbj09brMdIxvQ1qffVmup5IU0XWSOWHrlYQHuQ6r0aLpCLqRBx-63DsHGHyi488bUfRQdYUA0XwbXqSJZvcUTg",
+    "price": 2499
+  },
+  {
+    "id": 6,
+    "category": "Premium Cotton Hoodie",
+    "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT805frO6K2LDMWFiCiAgHuZzXYLusdMs3IhAcHCEf5ZlBiJAGLNNGol6lxCjybpEc2xCG0cL4eW7oc-6FcShkpfuYwg6sRiBtvP2i5-ICWBNgrQ0iV7G-p",
+    "price": 2599
+  },
+  {
+    "id": 7,
+    "category": "Training Pullover Hoodie",
+    "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRejpLRbqaDrLK0YXobX7AMbuMUMH72NB_i4O2gbaXEnoILWc2Mo_Q9un2JtZ5kUj2fbF6lU_merJTryMcn2eS5S5ug15l-TQ",
+    "price": 2699
+  },
+  {
+    "id": 8,
+    "category": "Athletic Fitness Hoodie",
+    "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTQdEhO028HyaEy0v2eZSkks27-6F39z99lrbC6HGtBeQuL2zEjn18Pkq9qnV2MZZjawYuAQs59zEuI8uRk-sGXFGb15LdpxQWT9gnTfTHGDNDtb2UXuRv99gg",
+    "price": 2899
+  }
+],
+"women": [
+  {
+    "id": 1,
+    "category": "sports_bra",
+    "img": "https://i.pinimg.com/736x/cb/c6/88/cbc6887ac10cd390eabbd914214c6c0e.jpg",
+    "price": 999
+  },
+  {
+    "id": 2,
+    "category": "gym_tshirts",
+    "img": "https://i.pinimg.com/1200x/ec/27/86/ec27863a87ecd93db5bac8c0a1da4d60.jpg",
+    "price": 1099
+  },
+  {
+    "id": 3,
+    "category": "leggings",
+    "img": "https://i.pinimg.com/736x/68/17/55/68175571bfbda4d0699fd88c3f3712d9.jpg",
+    "price": 1499
+  },
+  {
+    "id": 4,
+    "category": "gym_shorts",
+    "img": "https://i.pinimg.com/1200x/8f/2d/9c/8f2d9c037a6c19bf07d2e52dd943bb96.jpg",
+    "price": 899
+  },
+  {
+    "id": 5,
+    "category": "crop_top",
+    "img": "https://i.pinimg.com/1200x/a4/09/fd/a409fd80ac9e5cd4440736d599e96458.jpg",
+    "price": 1199
+  }
+],
+"sports_bra": [
+  {
+    "id": 1,
+    "name": "PowerFit Sports Bra",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuWfLhJDdInbwy7YTlzqSxGhovOJ9UBEKR0AGXFR-HBA&s",
+    "price": 999
+  },
+  {
+    "id": 2,
+    "name": "FlexMove Sports Bra",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfPBhZDKDClAs09sPeb9qu2hhqZgLmLvK54ZNkNX-JUg&s",
+    "price": 1199
+  },
+  {
+    "id": 3,
+    "name": "Active Support Bra",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs50v4LrCSwPRZYwGuqfWAp6wKUncrEXw3YlRhRdDhyQ&s",
+    "price": 899
+  },
+  {
+    "id": 4,
+    "name": "Ultra Comfort Bra",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVHqcU7C_gm_rm6v-DOjmAMYxhikLjeO7RqyHnHrvJTQ&s",
+    "price": 1299
+  },
+  {
+    "id": 5,
+    "name": "Pro Performance Bra",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMCDlrw2p6du1-GIn3fDMll21CfwM-h5mmMmcm99IFzw&s=10",
+    "price": 1499
+  },
+  {
+    "id": 6,
+    "name": "FitMotion Sports Bra",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOE2b7p385eIJZKdQlIBOE-obhz1FOMmCIYToG2oZVtA&s=10",
+    "price": 1099
+  },
+  {
+    "id": 7,
+    "name": "Core Support Bra",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaouHaKuiNkGkPmD6BmftxXmt7rmCV0fYkS4g7wuNRvA&s",
+    "price": 999
+  },
+  {
+    "id": 8,
+    "name": "Elite Training Bra",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRprX1VZK7yEEE_3Ko-scvWrTJi5Xm9C4iY_7fmTo92Og&s=10",
+    "price": 1599
+  }
+],
+"gym_tshirts": [
+  {
+    "id": 1,
+    "name": "PowerFlex Gym T-Shirt",
+    "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTrWkbZ4QV9twdncIS5LAwfWyPNiyDuH4MfwK3zojGDjfes45qtfDzKDGRnc6vzh9PPHO0rP6P5YwisCSlQ5C7fgeyGNsRXHjjm6uWxy2653nF5hlG7dvS4ZVc",
+    "price": 799
+  },
+  {
+    "id": 2,
+    "name": "ActiveDry Performance Tee",
+    "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQu7Rdr7PRhG_yyBcVQQsGHjMwRQT6mogvGFGM15D6jobO3dKIIk9YgoNlcpVFhbgTNArVAaLgWrjq6tCT3oDrs2DcqLt24FV8SAdZCwqY1YLdWTGt2O0Xd",
+    "price": 899
+  },
+  {
+    "id": 3,
+    "name": "FlexFit Training T-Shirt",
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQeqH8OGRhcIzHTqBbhVmOT-pEeh_ZbF6USCCwSrfVyjK73M1oZMITIos2Xqy-AqmCK9vtoTit1xYMVqi0iVdc9W79rBiBRw14YOQPIlPQ7GoaTUmcEeYjwFQ",
+    "price": 999
+  },
+  {
+    "id": 4,
+    "name": "MuscleTech Workout Tee",
+    "img": "https://i.pinimg.com/736x/55/2f/0c/552f0c4c0a8fd3e64a26c4b9db1d3b41.jpg",
+    "price": 1099
+  },
+  {
+    "id": 5,
+    "name": "FitCore Athletic T-Shirt",
+    "img": "https://i.pinimg.com/736x/2e/97/8b/2e978b9e14b4bb0c2d0f7b09d6d7cb9c.jpg",
+    "price": 849
+  },
+  {
+    "id": 6,
+    "name": "Elite Training Tee",
+    "img": "https://i.pinimg.com/736x/63/56/49/635649c95dc46c6e8a71c78a4e7c0d9f.jpg",
+    "price": 1199
+  },
+  {
+    "id": 7,
+    "name": "ProActive Gym Wear",
+    "img": "https://i.pinimg.com/736x/e0/7e/1d/e07e1df8b73b8d7c8f6b81e7a3d5d4d8.jpg",
+    "price": 949
+  },
+  {
+    "id": 8,
+    "name": "MaxMotion Performance Tee",
+    "img": "https://i.pinimg.com/736x/9c/2f/3d/9c2f3d0d4d4a4d5e8f9d6c3b2a1f4d7e.jpg",
+    "price": 1299
+  }
+],
+"gym_shorts": [
+  {
+    "id": 1,
+    "name": "PowerFlex Gym Shorts",
+    "img": "https://i.pinimg.com/736x/8c/0e/36/8c0e367d1d7d2d8c3d4b5f6a7e8f9a1b.jpg",
+    "price": 699
+  },
+  {
+    "id": 2,
+    "name": "ActiveDry Training Shorts",
+    "img": "https://i.pinimg.com/736x/7b/9d/25/7b9d25c6d5f4b3a2c1d0e9f8a7b6c5d4.jpg",
+    "price": 799
+  },
+  {
+    "id": 3,
+    "name": "FlexFit Running Shorts",
+    "img": "https://i.pinimg.com/736x/5e/6f/48/5e6f48d3c2b1a9f8e7d6c5b4a3f2e1d0.jpg",
+    "price": 899
+  },
+  {
+    "id": 4,
+    "name": "Elite Performance Shorts",
+    "img": "https://i.pinimg.com/736x/4a/8b/9c/4a8b9c1d2e3f4a5b6c7d8e9f0a1b2c3d.jpg",
+    "price": 999
+  },
+  {
+    "id": 5,
+    "name": "ProActive Workout Shorts",
+    "img": "https://i.pinimg.com/736x/6d/7e/8f/6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a.jpg",
+    "price": 849
+  },
+  {
+    "id": 6,
+    "name": "MaxMotion Sports Shorts",
+    "img": "https://i.pinimg.com/736x/9f/8e/7d/9f8e7d6c5b4a3f2e1d0c9b8a7f6e5d4c.jpg",
+    "price": 1099
+  },
+  {
+    "id": 7,
+    "name": "FitCore Athletic Shorts",
+    "img": "https://i.pinimg.com/736x/2c/3d/4e/2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f.jpg",
+    "price": 949
+  },
+  {
+    "id": 8,
+    "name": "UltraFit Training Shorts",
+    "img": "https://i.pinimg.com/736x/1a/2b/3c/1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d.jpg",
+    "price": 1199
+  }
+],
+"footwear-gym": [
+  {
+    "id": 1,
+    "category": "running_shoes",
+    "img": "https://i.pinimg.com/736x/9d/32/96/9d32965dea624def3ec15c850bef871d.jpg",
+    "price": 4999
+  },
+  {
+    "id": 2,
+    "category": "training_shoes",
+    "img": "https://i.pinimg.com/736x/28/35/25/2835255f1e6a6f516c62208d6f430359.jpg",
+    "price": 4499
+  },
+  {
+    "id": 3,
+    "category": "walking_shoes",
+    "img": "https://i.pinimg.com/1200x/6f/d0/64/6fd06484da9345584c351aaebb17bad2.jpg",
+    "price": 2999
+  },
+  {
+    "id": 4,
+    "category": "football_boots",
+    "img": "https://i.pinimg.com/1200x/12/64/76/126476b84c968eba4641f0bb247a0ea3.jpg",
+    "price": 6999
+  },
+  {
+    "id": 5,
+    "category": "cricket_shoes",
+    "img": "https://i.pinimg.com/1200x/ee/25/37/ee2537fcf50910600526adbd28c6b3cf.jpg",
+    "price": 5499
+  }
+
+],
+"running_shoes": [
+  {
+    "id": 1,
+    "name": "Nike Air Zoom Pegasus 41",
+    "img": "https://i.pinimg.com/736x/0d/88/7f/0d887f7e6f8b9bff2b6f5f3bcbfc8b3e.jpg",
+    "price": 4999
+  },
+  {
+    "id": 2,
+    "name": "Adidas Adizero SL",
+    "img": "https://i.pinimg.com/736x/56/7c/2d/567c2d6f9f0b68db77b95bbfa4f3b983.jpg",
+    "price": 4599
+  },
+  {
+    "id": 3,
+    "name": "Puma Velocity Nitro",
+    "img": "https://i.pinimg.com/736x/94/39/9f/94399f58f1bdbd8b99f9d4bb77db31d2.jpg",
+    "price": 4299
+  },
+  {
+    "id": 4,
+    "name": "ASICS Gel Cumulus",
+    "img": "https://i.pinimg.com/736x/72/5d/e2/725de28b3a56cbbfb4d27f64c94db31b.jpg",
+    "price": 5499
+  },
+  {
+    "id": 5,
+    "name": "New Balance Fresh Foam X",
+    "img": "https://i.pinimg.com/736x/0b/4b/18/0b4b18c1a0c3cb9c8b2f6d75cde49d48.jpg",
+    "price": 5799
+  },
+   {
+    "id": 6,
+    "name": "New Balance Fresh Foam X",
+    "img": "https://i.pinimg.com/736x/0b/4b/18/0b4b18c1a0c3cb9c8b2f6d75cde49d48.jpg",
+    "price": 5799
+  },
+   {
+    "id": 7,
+    "name": "New Balance Fresh Foam X",
+    "img": "https://i.pinimg.com/736x/0b/4b/18/0b4b18c1a0c3cb9c8b2f6d75cde49d48.jpg",
+    "price": 5799
+  },
+  {
+    "id": 8,
+    "name": "New Balance Fresh Foam X",
+    "img": "https://i.pinimg.com/736x/0b/4b/18/0b4b18c1a0c3cb9c8b2f6d75cde49d48.jpg",
+    "price": 5799
+  }
+],
+"training_shoes": [
+  {
+    "id": 1,
+    "name": "Nike Metcon 9",
+    "img": "https://i.pinimg.com/736x/7a/42/6b/7a426bf5b4d8d7e3a9d6c6c95c8f3b2f.jpg",
+    "price": 5999
+  },
+  {
+    "id": 2,
+    "name": "Adidas Dropset 3",
+    "img": "https://i.pinimg.com/736x/e8/7b/5c/e87b5c4f72b61d9d63e0dff1b4c8b4e9.jpg",
+    "price": 5499
+  },
+  {
+    "id": 3,
+    "name": "Reebok Nano X4",
+    "img": "https://i.pinimg.com/736x/9c/52/4d/9c524d8b81f6f4d6c65f4d2d94d3b4e7.jpg",
+    "price": 5299
+  },
+  {
+    "id": 4,
+    "name": "Under Armour TriBase Reign",
+    "img": "https://i.pinimg.com/736x/5d/6b/1f/5d6b1f4b5e8c7a2d9b8c4e7f2d3b5c1a.jpg",
+    "price": 4999
+  },
+  {
+    "id": 5,
+    "name": "Puma Fuse 3.0",
+    "img": "https://i.pinimg.com/736x/4f/9e/8c/4f9e8c6d3b7a2d9e5c1f4b8d6a3c2e7f.jpg",
+    "price": 4699
+  },
+  {
+    "id": 6,
+    "name": "Nike Free Metcon 5",
+    "img": "https://i.pinimg.com/736x/1b/6d/3a/1b6d3a7c5f9e2b8d4a6c1f7e3b9d5c2a.jpg",
+    "price": 5899
+  },
+  {
+    "id": 7,
+    "name": "ASICS Gel-Kayano Training",
+    "img": "https://i.pinimg.com/736x/6c/2d/8f/6c2d8f4b1a9e5c7d3f6b8a2e9c5d1f4b.jpg",
+    "price": 5699
+  },
+  {
+    "id": 8,
+    "name": "New Balance Minimus TR",
+    "img": "https://i.pinimg.com/736x/3e/8c/5a/3e8c5a7d2f9b1c6e4a8d3f7b5c2e9a1d.jpg",
+    "price": 5499
+  }
+
+],
+"walking_shoes": [
+  {
+    "id": 1,
+    "name": "Skechers GOwalk 7",
+    "img": "https://i.pinimg.com/736x/4d/6b/73/4d6b73f2c1d94a4a6b7d5c9b2a1f8e6d.jpg",
+    "price": 3499
+  },
+  {
+    "id": 2,
+    "name": "Nike Motiva",
+    "img": "https://i.pinimg.com/736x/8b/1f/5d/8b1f5d2f6c4a9d7e3b2c8f1d6a5b4e9c.jpg",
+    "price": 4299
+  },
+  {
+    "id": 3,
+    "name": "Adidas Lite Racer Adapt",
+    "img": "https://i.pinimg.com/736x/5a/2e/8f/5a2e8f3d7b6c4f1d9a8b5e2c7d3f6a1b.jpg",
+    "price": 3899
+  },
+  {
+    "id": 4,
+    "name": "Puma FlexFocus Lite",
+    "img": "https://i.pinimg.com/736x/9c/4b/1d/9c4b1d6a8f3e2b7c5d9a4f1b6e8c2d3f.jpg",
+    "price": 3299
+  },
+  {
+    "id": 5,
+    "name": "Reebok Walk Ultra 7",
+    "img": "https://i.pinimg.com/736x/2f/7d/8c/2f7d8c5b4e1a9d6c3f8b2a7e5d4c1b9f.jpg",
+    "price": 3699
+  },
+  {
+    "id": 6,
+    "name": "ASICS Gel-Contend Walk",
+    "img": "https://i.pinimg.com/736x/6a/4d/91/6a4d91f2c8b7e3d5a1f6c9b4e8d2a7c5.jpg",
+    "price": 3999
+  },
+  {
+    "id": 7,
+    "name": "New Balance 411 V3",
+    "img": "https://i.pinimg.com/736x/1c/9a/5d/1c9a5d8f3b6e4c7a2d9f5b1e8c4a6d3f.jpg",
+    "price": 3599
+  },
+  {
+    "id": 8,
+    "name": "Under Armour Charged Assert Walk",
+    "img": "https://i.pinimg.com/736x/7d/3b/8a/7d3b8a5c2f6e9d1b4a7c3f8e5d9b2a6c.jpg",
+    "price": 4199
+  }
+],
+"football_boots": [
+  {
+    "id": 1,
+    "name": "Nike Mercurial Vapor 16",
+    "img": "https://i.pinimg.com/736x/2e/6c/91/2e6c91c73a58d6b7d42c4fd5ef8f31b2.jpg",
+    "price": 6499
+  },
+  {
+    "id": 2,
+    "name": "Adidas Predator Elite",
+    "img": "https://i.pinimg.com/736x/53/2d/91/532d91ef75d67c5f5f43d73f8f4c6d53.jpg",
+    "price": 6999
+  },
+  {
+    "id": 3,
+    "name": "Puma Future Ultimate",
+    "img": "https://i.pinimg.com/736x/8a/54/6d/8a546d6e5eaf4db7d2e7c8c9d4e1a7b4.jpg",
+    "price": 5999
+  },
+  {
+    "id": 4,
+    "name": "New Balance Furon V7",
+    "img": "https://i.pinimg.com/736x/3c/71/9b/3c719bfa5f4f5f6c8b9d4e2d7c8f3b6a.jpg",
+    "price": 5699
+  },
+  {
+    "id": 5,
+    "name": "Mizuno Morelia Neo IV",
+    "img": "https://i.pinimg.com/736x/1f/93/47/1f93471b3b2d8a4d7c5b9f4d8a2e6b3c.jpg",
+    "price": 6299
+  },
+  {
+    "id": 6,
+    "name": "Nike Phantom GX II",
+    "img": "https://i.pinimg.com/736x/4b/8c/12/4b8c12f6a9d3e5b7c2f1a8d6e9b4c3f7.jpg",
+    "price": 6899
+  },
+  {
+    "id": 7,
+    "name": "Adidas Copa Pure 2",
+    "img": "https://i.pinimg.com/736x/6d/2f/9a/6d2f9a7c5b8d3e1f4a6c9b2d7e5f1a8c.jpg",
+    "price": 6599
+  },
+  {
+    "id": 8,
+    "name": "Puma Ultra Ultimate",
+    "img": "https://i.pinimg.com/736x/9a/5d/3c/9a5d3c7f1b8e4a2d6c9f3b7e5a1d8c2f.jpg",
+    "price": 6399
+  }
+],
+"cricket_shoes": [
+  {
+    "id": 1,
+    "name": "Adidas Adipower Vector",
+    "img": "https://i.pinimg.com/736x/7d/1b/43/7d1b4339f0d4d5dcb2c8e7a6a4c5b3d1.jpg",
+    "price": 5999
+  },
+  {
+    "id": 2,
+    "name": "Puma 24 FH Rubber",
+    "img": "https://i.pinimg.com/736x/8a/6f/25/8a6f25d7b3c4e8d1f6a2b5c9d7e4f3a1.jpg",
+    "price": 5299
+  },
+  {
+    "id": 3,
+    "name": "New Balance CK10",
+    "img": "https://i.pinimg.com/736x/5c/2d/84/5c2d84f9b6a3d1e7c5f2b8d4a9e6c3b7.jpg",
+    "price": 6499
+  },
+  {
+    "id": 4,
+    "name": "ASICS Gel-Peake 2",
+    "img": "https://i.pinimg.com/736x/2f/9c/61/2f9c61d4b8a5e3f7c2d9a6b4e1f8c5d3.jpg",
+    "price": 4799
+  },
+  {
+    "id": 5,
+    "name": "DSC Beamer",
+    "img": "https://i.pinimg.com/736x/9b/4d/16/9b4d16f3c8a5e2d7b1f6c9a4d3e8b5f2.jpg",
+    "price": 4399
+  },
+  {
+    "id": 6,
+    "name": "SG Savage Spike",
+    "img": "https://i.pinimg.com/736x/6a/91/3d/6a913d7b5f2c8e4a1d9b6c3f7a5e2d8c.jpg",
+    "price": 5599
+  },
+  {
+    "id": 7,
+    "name": "Kookaburra KC Players",
+    "img": "https://i.pinimg.com/736x/3c/8e/57/3c8e57b1d6f4a9c2e5b7d3f8a1c6e4b9.jpg",
+    "price": 6199
+  },
+  {
+    "id": 8,
+    "name": "SS Master 9000",
+    "img": "https://i.pinimg.com/736x/1e/7b/95/1e7b95c4d8a3f6b2e9c5d1a7f4b8c3d6.jpg",
+    "price": 4999
+  }
+],
+"gym_equipment": [
+  {
+    "id": 1,
+    "category": "dumbbells",
+    "img": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=800",
+    "price": 2499
+  },
+  {
+    "id": 2,
+    "category": "barbell",
+    "img": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800",
+    "price": 5999
+  },
+  {
+    "id": 3,
+    "category": "weight_plates",
+    "img": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=800",
+    "price": 3499
+  },
+  {
+    "id": 4,
+    "category": "kettlebell",
+    "img": "https://images.unsplash.com/photo-1599058917212-d750089bc07f?w=800",
+    "price": 1999
+  },
+  {
+    "id": 5,
+    "category": "adjustable_bench",
+    "img": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=800",
+    "price": 8999
+  }
+
+],
+"dumbbells": [
+  {
+    "id": 1,
+    "name": "Bowflex SelectTech Adjustable Dumbbells",
+    "img": "https://i.pinimg.com/736x/1f/55/4f/1f554f8d6cbb0d70c3d0f57b4f2d1d69.jpg",
+    "price": 24999
+  },
+  {
+    "id": 2,
+    "name": "Amazon Basics Rubber Hex Dumbbells",
+    "img": "https://i.pinimg.com/736x/8b/0d/4d/8b0d4d8b1cb8b6c1f4dca6d37d58b0c7.jpg",
+    "price": 2499
+  },
+  {
+    "id": 3,
+    "name": "USI Universal Fixed Dumbbells",
+    "img": "https://i.pinimg.com/736x/7b/91/0b/7b910b4e9f3cb65b9b89c7d75c3d96b1.jpg",
+    "price": 3999
+  },
+  {
+    "id": 4,
+    "name": "Kore PVC Dumbbell Set",
+    "img": "https://i.pinimg.com/736x/76/0d/53/760d53d25d7b5f0d52b88b91b7d4d2c3.jpg",
+    "price": 1499
+  },
+  {
+    "id": 5,
+    "name": "Bullar Rubber Coated Dumbbells",
+    "img": "https://i.pinimg.com/736x/ab/54/e4/ab54e4d3e5d8d8c1c6d0b93d7a7c1f9b.jpg",
+    "price": 4999
+  },
+  {
+    "id": 6,
+    "name": "Flexnest Adjustable Dumbbells",
+    "img": "https://i.pinimg.com/736x/29/2c/f3/292cf32c7c4f7d2d9b8b8a4d2d4b1e89.jpg",
+    "price": 19999
+  },
+  {
+    "id": 7,
+    "name": "Protoner Hex Dumbbells",
+    "img": "https://i.pinimg.com/736x/e2/78/64/e27864f95f6c4d2e91c9a2b9d0d5f0d8.jpg",
+    "price": 3299
+  },
+  {
+    "id": 8,
+    "name": "Lifeline Neoprene Dumbbells",
+    "img": "https://i.pinimg.com/736x/91/f8/4d/91f84d2b9b3e0b7a4d5b9c8a6d4c1f7b.jpg",
+    "price": 1799
+  }
+],
+"barbell": [
+  {
+    "id": 1,
+    "name": "Olympic Barbell 20kg",
+    "img": "https://i.pinimg.com/736x/7d/2b/65/7d2b65e9e3d6d7b3c9a2f8d6b5c4a1d9.jpg",
+    "price": 8999
+  },
+  {
+    "id": 2,
+    "name": "USI Olympic Barbell",
+    "img": "https://i.pinimg.com/736x/3f/91/0a/3f910a8b7e5d2f1c8b4d9a7c6e3f5b2d.jpg",
+    "price": 10499
+  },
+  {
+    "id": 3,
+    "name": "Decathlon Weight Training Barbell",
+    "img": "https://i.pinimg.com/736x/8b/6d/9f/8b6d9f4a7b2d5c8e3f1a9d7b6c5e2f4a.jpg",
+    "price": 7499
+  },
+  {
+    "id": 4,
+    "name": "Bullar Olympic Bar",
+    "img": "https://i.pinimg.com/736x/2a/7c/4f/2a7c4f9b6d3e8f1a5c7b2d9e4f6a1c8d.jpg",
+    "price": 11999
+  },
+  {
+    "id": 5,
+    "name": "BodyMax Chrome Barbell",
+    "img": "https://i.pinimg.com/736x/5e/4b/8c/5e4b8c1d9f7a2b6c3d5e8f1a4b7c9d2e.jpg",
+    "price": 6799
+  },
+  {
+    "id": 6,
+    "name": "Powerlifting Olympic Bar",
+    "img": "https://i.pinimg.com/736x/9d/3a/5c/9d3a5c7b1e4f8d2c6b9a5f3d7e1c4b8a.jpg",
+    "price": 13999
+  },
+  {
+    "id": 7,
+    "name": "EZ Curl Bar",
+    "img": "https://i.pinimg.com/736x/1b/9d/6e/1b9d6e3f8a5c2d7b4e9f1a6c3d8b5f2a.jpg",
+    "price": 3999
+  },
+  {
+    "id": 8,
+    "name": "Hex Trap Bar",
+    "img": "https://i.pinimg.com/736x/4c/8e/2a/4c8e2a9d7b5f3c1e6a8d4b2f9c7e5a1d.jpg",
+    "price": 12499
+  }
+],
+"weight_plates": [
+  {
+    "id": 1,
+    "name": "Olympic Rubber Weight Plates Set",
+    "img": "https://i.pinimg.com/736x/4b/5f/71/4b5f71d5f2b8b9c4d6a7e3f8b1c9d2e4.jpg",
+    "price": 4999
+  },
+  {
+    "id": 2,
+    "name": "Bumper Weight Plates",
+    "img": "https://i.pinimg.com/736x/8d/9c/24/8d9c24b6f5d1a8c9b2e7d4f3a6c1b8e5.jpg",
+    "price": 6999
+  },
+  {
+    "id": 3,
+    "name": "Cast Iron Weight Plates",
+    "img": "https://i.pinimg.com/736x/5f/2d/83/5f2d83a7c9e4b1d6f8a3c2b5e7d9f4a1.jpg",
+    "price": 3499
+  },
+  {
+    "id": 4,
+    "name": "Rubber Coated Weight Plates",
+    "img": "https://i.pinimg.com/736x/3a/7e/12/3a7e12c5d8b9f4a6e1c3d7b2f5a8c9d4.jpg",
+    "price": 5499
+  },
+  {
+    "id": 5,
+    "name": "USI Olympic Plates",
+    "img": "https://i.pinimg.com/736x/7c/1d/56/7c1d56b9e4a2c8d5f3b7a1e6c9d4f2b8.jpg",
+    "price": 7999
+  },
+  {
+    "id": 6,
+    "name": "Decathlon Domyos Weight Plates",
+    "img": "https://i.pinimg.com/736x/9b/4f/23/9b4f23d8c1a7e5b2f6d9c4a3b8e1d7f5.jpg",
+    "price": 4299
+  },
+  {
+    "id": 7,
+    "name": "Fractional Change Plates Set",
+    "img": "https://i.pinimg.com/736x/2e/8a/67/2e8a67b5d4c9f1a3e7b2d8c6f5a9b4d1.jpg",
+    "price": 2999
+  },
+  {
+    "id": 8,
+    "name": "Competition Bumper Plates",
+    "img": "https://i.pinimg.com/736x/6d/3c/91/6d3c91a7b5e8d2f4c1a9b6d3e7f5c2a8.jpg",
+    "price": 9999
+  }
+],
+"kettlebell": [
+  {
+    "id": 1,
+    "name": "Amazon Basics Cast Iron Kettlebell",
+    "img": "https://i.pinimg.com/736x/7b/3f/91/7b3f91d8c5a2b6e4f1d9c7a3e8b5f2d1.jpg",
+    "price": 1799
+  },
+  {
+    "id": 2,
+    "name": "Decathlon Domyos Kettlebell",
+    "img": "https://i.pinimg.com/736x/4d/8a/27/4d8a27c6b9e1f5d3a7c2b8e4f6d1a9c5.jpg",
+    "price": 2299
+  },
+  {
+    "id": 3,
+    "name": "USI Competition Kettlebell",
+    "img": "https://i.pinimg.com/736x/9c/2d/74/9c2d74b5e8f1a6d3c9b4e2f7a5d8c1b6.jpg",
+    "price": 4999
+  },
+  {
+    "id": 4,
+    "name": "Bullar Powder Coated Kettlebell",
+    "img": "https://i.pinimg.com/736x/5e/1c/83/5e1c83d7b9f4a2c6e8d1b5f3a7c9d4e2.jpg",
+    "price": 2699
+  },
+  {
+    "id": 5,
+    "name": "Flexnest Adjustable Kettlebell",
+    "img": "https://i.pinimg.com/736x/8a/6f/15/8a6f15c2d9b4e7a1f5c3d8b6e2a9f4c7.jpg",
+    "price": 8999
+  },
+  {
+    "id": 6,
+    "name": "Protoner Vinyl Kettlebell",
+    "img": "https://i.pinimg.com/736x/3f/9d/62/3f9d62b7e1c5a8d4f2b9c6e3a7d1f5b8.jpg",
+    "price": 1999
+  },
+  {
+    "id": 7,
+    "name": "Kore Cast Iron Kettlebell",
+    "img": "https://i.pinimg.com/736x/1d/7b/48/1d7b48c9e5a2f6d3b8c1e7a4d9f2b5c6.jpg",
+    "price": 2499
+  },
+  {
+    "id": 8,
+    "name": "Lifeline Fitness Kettlebell",
+    "img": "https://i.pinimg.com/736x/6c/4e/93/6c4e93b2d8f5a1c7e4b9d3f6a2c8e5d1.jpg",
+    "price": 3199
+  }
+],
+"adjustable_bench": [
+  {
+    "id": 1,
+    "name": "Bowflex 5.1S Adjustable Bench",
+    "img": "https://i.pinimg.com/736x/9a/2d/7f/9a2d7f8c5e4b1d6f3a9c7e2b5d8f1a4c.jpg",
+    "price": 24999
+  },
+  {
+    "id": 2,
+    "name": "Decathlon Domyos Adjustable Bench",
+    "img": "https://i.pinimg.com/736x/4b/8c/2d/4b8c2d7f1a5e9c3d6b2f8a4e7d1c5b9f.jpg",
+    "price": 12999
+  },
+  {
+    "id": 3,
+    "name": "USI Universal Adjustable Bench",
+    "img": "https://i.pinimg.com/736x/7d/5a/91/7d5a91c3e8b2f4d6a1c9b5e7f3d2a8c4.jpg",
+    "price": 15999
+  },
+  {
+    "id": 4,
+    "name": "Bullar FID Adjustable Bench",
+    "img": "https://i.pinimg.com/736x/2f/9b/6d/2f9b6d1a7e4c8b5d3f9a2c6e1d7b4f8a.jpg",
+    "price": 17999
+  },
+  {
+    "id": 5,
+    "name": "Flexnest Foldable Adjustable Bench",
+    "img": "https://i.pinimg.com/736x/5c/1e/84/5c1e84d7b2f9a4c6e3d8b1f5a7c2d9e4.jpg",
+    "price": 14999
+  },
+  {
+    "id": 6,
+    "name": "Protoner Multi-Position Bench",
+    "img": "https://i.pinimg.com/736x/8e/4c/27/8e4c27b9d1f6a3c5e8b2d7f4a9c1e6d3.jpg",
+    "price": 13999
+  },
+  {
+    "id": 7,
+    "name": "Lifeline Utility Adjustable Bench",
+    "img": "https://i.pinimg.com/736x/3a/7d/52/3a7d52c8e4b1f6d9a2c5e7b3f8d1a4c6.jpg",
+    "price": 16999
+  },
+  {
+    "id": 8,
+    "name": "Kore Heavy Duty Adjustable Bench",
+    "img": "https://i.pinimg.com/736x/6f/2b/95/6f2b95d1c8a4e7b3f9d5a2c6e1b8f4d7.jpg",
+    "price": 18999
+  }
+],
+"treadmill": [
+  {
+    "id": 1,
+    "name": "PowerMax Fitness TDM-98 Motorized Treadmill",
+    "img": "https://i.pinimg.com/736x/4d/5a/72/4d5a72c8b1e9f3d6a7c2b5e8d1f4a9c3.jpg",
+    "price": 32999
+  },
+  {
+    "id": 2,
+    "name": "Fitkit FT200 Series Treadmill",
+    "img": "https://i.pinimg.com/736x/8b/1d/43/8b1d43e7a5c9f2d6b4e8a1c3d7f5b9e2.jpg",
+    "price": 28999
+  },
+  {
+    "id": 3,
+    "name": "Durafit Panther Treadmill",
+    "img": "https://i.pinimg.com/736x/2c/9f/65/2c9f65b1d8e4a7c3f5b9d2e6a1c8f4d7.jpg",
+    "price": 35999
+  },
+  {
+    "id": 4,
+    "name": "Lifelong FitPro Motorized Treadmill",
+    "img": "https://i.pinimg.com/736x/7e/3a/91/7e3a91d4b8c2f6a5e1d9b3c7f4a8d2e6.jpg",
+    "price": 26999
+  },
+  {
+    "id": 5,
+    "name": "MAXPRO PTM405M Treadmill",
+    "img": "https://i.pinimg.com/736x/5a/8c/24/5a8c24e9b2d7f4a1c6e3b8d5f9a2c7e1.jpg",
+    "price": 38999
+  },
+  {
+    "id": 6,
+    "name": "Cockatoo CTM-101 Steel Treadmill",
+    "img": "https://i.pinimg.com/736x/9d/2b/57/9d2b57c6e1a8f4d3b7c5e9a2d6f1b4c8.jpg",
+    "price": 31999
+  },
+  {
+    "id": 7,
+    "name": "Reach T-400 Motorized Treadmill",
+    "img": "https://i.pinimg.com/736x/3f/7e/82/3f7e82d5b9c4a1e6f2d8b3c7a5e9d1f4.jpg",
+    "price": 29999
+  },
+  {
+    "id": 8,
+    "name": "Sparnod Fitness STH-1200 Treadmill",
+    "img": "https://i.pinimg.com/736x/6b/4d/18/6b4d18e7c2f9a5d1b8e3c6f4a7d2b9e5.jpg",
+    "price": 34999
+  }
+],
+"exercise_bike": [
+  {
+    "id": 1,
+    "name": "PowerMax Fitness BU-201 Exercise Bike",
+    "img": "https://i.pinimg.com/736x/3c/7d/91/3c7d91a8b5e4f2d6c1a9e7b3d5f8c2a4.jpg",
+    "price": 18999
+  },
+  {
+    "id": 2,
+    "name": "Fitkit FK400 Spin Bike",
+    "img": "https://i.pinimg.com/736x/8a/2f/64/8a2f64c7d1b9e5a3f6c8d2b4e7a1c9d5.jpg",
+    "price": 22999
+  },
+  {
+    "id": 3,
+    "name": "Decathlon Domyos EB 520 Exercise Bike",
+    "img": "https://i.pinimg.com/736x/5d/8b/27/5d8b27e9c2a4f7d1b6e3c9a5d8f2b4c7.jpg",
+    "price": 24999
+  },
+  {
+    "id": 4,
+    "name": "Reach AB-110 Air Bike",
+    "img": "https://i.pinimg.com/736x/1f/9c/73/1f9c73b6e4d8a2c5f7b1d9e3a6c8f2d4.jpg",
+    "price": 16999
+  },
+  {
+    "id": 5,
+    "name": "Cockatoo CUB-01 Upright Bike",
+    "img": "https://i.pinimg.com/736x/7b/4e/15/7b4e15d9a3c8f2b6e1d5a7c4f9b2e8d1.jpg",
+    "price": 19999
+  },
+  {
+    "id": 6,
+    "name": "MAXPRO Magnetic Exercise Bike",
+    "img": "https://i.pinimg.com/736x/9e/6a/42/9e6a42c5b8d1f4a7e3c9b2d6f5a1c8e4.jpg",
+    "price": 21999
+  },
+  {
+    "id": 7,
+    "name": "Lifelong LLF45 Spin Bike",
+    "img": "https://i.pinimg.com/736x/2d/7f/86/2d7f86a1c5e9b4d3f8a2c6e7d1b5f9c4.jpg",
+    "price": 17999
+  },
+  {
+    "id": 8,
+    "name": "Sparnod Fitness Upright Bike",
+    "img": "https://i.pinimg.com/736x/6c/3b/58/6c3b58d7e2a9f5b1c4d8a6e3f7b2c9d5.jpg",
+    "price": 20999
+  }
+],
+"rowing_machine": [
+  {
+    "id": 1,
+    "name": "Concept2 RowErg Rowing Machine",
+    "img": "https://i.pinimg.com/736x/8d/4a/91/8d4a91c7e2b5f1d9a6c3e8b4d7f2a5c1.jpg",
+    "price": 94999
+  },
+  {
+    "id": 2,
+    "name": "Decathlon Domyos 500 Rowing Machine",
+    "img": "https://i.pinimg.com/736x/5b/2d/67/5b2d67f8c4a1e9d3b7f2c5a8e1d4b9c6.jpg",
+    "price": 32999
+  },
+  {
+    "id": 3,
+    "name": "PowerMax Fitness Rower",
+    "img": "https://i.pinimg.com/736x/3f/8c/24/3f8c24b9d5a2e7c1f6b4d8a3c9e1f5d2.jpg",
+    "price": 28999
+  },
+  {
+    "id": 4,
+    "name": "Cockatoo Water Rowing Machine",
+    "img": "https://i.pinimg.com/736x/9a/6e/42/9a6e42c8b1d7f4a5e2c9b3d6f8a1c7e4.jpg",
+    "price": 49999
+  },
+  {
+    "id": 5,
+    "name": "Fitkit Magnetic Rowing Machine",
+    "img": "https://i.pinimg.com/736x/2c/7b/83/2c7b83e5a1d9f4c6b8e2a7d3c5f9b1e6.jpg",
+    "price": 26999
+  },
+  {
+    "id": 6,
+    "name": "MAXPRO Air Resistance Rower",
+    "img": "https://i.pinimg.com/736x/6e/1d/58/6e1d58a9c4f2b7d3e5a8c1f6b9d2e4a7.jpg",
+    "price": 35999
+  },
+  {
+    "id": 7,
+    "name": "Reach Foldable Rowing Machine",
+    "img": "https://i.pinimg.com/736x/4b/9f/15/4b9f15d6c8a2e5f1b7d3c9a4e6f2b8d1.jpg",
+    "price": 24999
+  },
+  {
+    "id": 8,
+    "name": "Sparnod Hydraulic Rowing Machine",
+    "img": "https://i.pinimg.com/736x/7c/3a/94/7c3a94e1b5d8f2a6c9e4b7d3f1a5c8e2.jpg",
+    "price": 18999
+  }
+],
+"massagers": [
+  {
+    "id": 1,
+    "category": "massage_gun",
+    "img": "https://i.pinimg.com/736x/5c/9f/35/5c9f35a8d4e7b2c1f6a9d3b8e5c2f7a4.jpg",
+    "price": 4999
+  },
+  {
+    "id": 2,
+    "category": "neck_massager",
+    "img": "https://i.pinimg.com/736x/2d/7a/81/2d7a81b6e4c9f1d5a8b3e7c2d9f4a6b1.jpg",
+    "price": 2499
+  },
+  {
+    "id": 3,
+    "category": "foot_massager",
+    "img": "https://i.pinimg.com/736x/8a/4d/63/8a4d63c7b2e9f5a1d6c3b8e4f7a2d9c5.jpg",
+    "price": 6999
+  },
+  {
+    "id": 4,
+    "category": "back_massager",
+    "img": "https://i.pinimg.com/736x/4f/8b/25/4f8b25d9c1e7a3b6f2d5c8a4e9b1d7f3.jpg",
+    "price": 3499
+  },
+  {
+    "id": 5,
+    "category": "massage_cushion",
+    "img": "https://i.pinimg.com/736x/9b/2c/54/9b2c54e7a1d8f4c6b3e9d2a5f7c1b8d4.jpg",
+    "price": 3999
+  }
+],
+"massage_gun": [
+  {
+    "id": 1,
+    "name": "Therabody Theragun Prime",
+    "img": "https://i.pinimg.com/736x/5b/8d/34/5b8d34a7c2e9f1d6b4a8c3e7d5f2b9a1.jpg",
+    "price": 19999
+  },
+  {
+    "id": 2,
+    "name": "Hyperice Hypervolt 2",
+    "img": "https://i.pinimg.com/736x/8c/2f/67/8c2f67b5d1e9a4c7f3b8d2e6a1c5f9d4.jpg",
+    "price": 18999
+  },
+  {
+    "id": 3,
+    "name": "AGARO Prime Massage Gun",
+    "img": "https://i.pinimg.com/736x/3d/7b/95/3d7b95e8c4a1f6d2b9e5c7a3d8f1b4c6.jpg",
+    "price": 4999
+  },
+  {
+    "id": 4,
+    "name": "Lifelong Deep Tissue Massage Gun",
+    "img": "https://i.pinimg.com/736x/7a/5e/21/7a5e21c9d3b8f4a1e6c2d7b5f9a4c8d2.jpg",
+    "price": 3999
+  },
+  {
+    "id": 5,
+    "name": "FitRx Pro Massage Gun",
+    "img": "https://i.pinimg.com/736x/2e/9c/58/2e9c58b6d1f7a4c9e3b5d8a2f6c1e7b4.jpg",
+    "price": 5999
+  },
+  {
+    "id": 6,
+    "name": "Dr Trust Professional Massage Gun",
+    "img": "https://i.pinimg.com/736x/9d/4a/83/9d4a83c7b2e5f1a6d8c3b9e4f7a2d5c1.jpg",
+    "price": 5499
+  },
+  {
+    "id": 7,
+    "name": "Caresmith Charge Boost Massage Gun",
+    "img": "https://i.pinimg.com/736x/4c/8d/16/4c8d16e5b9a2f7c3d1e6b4a8f5c9d2a7.jpg",
+    "price": 6499
+  },
+  {
+    "id": 8,
+    "name": "BeatXP Bolt Deep Tissue Massage Gun",
+    "img": "https://i.pinimg.com/736x/6f/3b/72/6f3b72d8a1c5e9f4b2d7c6a3e8f1d5b9.jpg",
+    "price": 4499
+  }
+],
+
+"neck_massager": [
+  {
+    "id": 1,
+    "name": "Dr Physio Shiatsu Neck & Shoulder Massager",
+    "img": "https://i.pinimg.com/736x/7c/4e/92/7c4e92d1b8a5f3c6d9e2a7b4c1d8f5e3.jpg",
+    "price": 2349
+  },
+  {
+    "id": 2,
+    "name": "Lifelong LLM972 Neck & Shoulder Massager",
+    "img": "https://i.pinimg.com/736x/4d/7b/15/4d7b15c8e2f9a6b3d1c5e8f4a7b2d9c6.jpg",
+    "price": 1799
+  },
+  {
+    "id": 3,
+    "name": "AGARO Deluxe Shiatsu Neck Massager",
+    "img": "https://i.pinimg.com/736x/9b/2c/84/9b2c84d5a1e7f3c8b6d4a9e2f5c1b7d3.jpg",
+    "price": 2208
+  },
+  {
+    "id": 4,
+    "name": "Boldfit Cordless Neck Shoulder Massager",
+    "img": "https://i.pinimg.com/736x/6f/8d/37/6f8d37a4c9e2b5d1f7a3c8e6b4d9a2f5.jpg",
+    "price": 1799
+  },
+  {
+    "id": 5,
+    "name": "Croma Neck & Shoulder Massager",
+    "img": "https://i.pinimg.com/736x/2a/5f/91/2a5f91d7c4e8b1a6f3d9c2e5b7a4d8f1.jpg",
+    "price": 3799
+  },
+  {
+    "id": 6,
+    "name": "KAXLIDEN Heated Neck Massager",
+    "img": "https://i.pinimg.com/736x/8d/1c/46/8d1c46b5e7a2f9d3c6b4a8e1d5f7c2b9.jpg",
+    "price": 1690
+  },
+  {
+    "id": 7,
+    "name": "Apollo Pharmacy Neck Massager",
+    "img": "https://i.pinimg.com/736x/5c/9a/28/5c9a28e1d7b4f6a2c8e3d9b5f1a7c4e6.jpg",
+    "price": 2530
+  },
+  {
+    "id": 8,
+    "name": "Durafit Snap-On Neck Massager",
+    "img": "https://i.pinimg.com/736x/3e/7d/65/3e7d65c9a2f4b8d1e6c5a3f9b7d2e4c8.jpg",
+    "price": 1999
+  }
+],
+"foot_massager": [
+  {
+    "id": 1,
+    "name": "Lifelong LLM486 Foot Massager",
+    "img": "https://i.pinimg.com/736x/8b/4d/91/8b4d91c7e2a5f1d9b6c3e8a4d7f2b5c1.jpg",
+    "price": 12567
+  },
+  {
+    "id": 2,
+    "name": "AGARO Amaze Foot & Calf Massager",
+    "img": "https://i.pinimg.com/736x/5c/8a/37/5c8a37d9b2e4f1a6c7d3e8b5f9a2c4d1.jpg",
+    "price": 11699
+  },
+  {
+    "id": 3,
+    "name": "Dr Physio USA Foot & Calf Massager",
+    "img": "https://i.pinimg.com/736x/7d/2b/65/7d2b65e9c4a8f1d5b3e7c2a9f6d4b1e8.jpg",
+    "price": 12187
+  },
+  {
+    "id": 4,
+    "name": "Cult Carson Foot & Calf Machine",
+    "img": "https://i.pinimg.com/736x/3e/9c/82/3e9c82b5d7a4f1c6e8b2d9a5f3c7e1d4.jpg",
+    "price": 9999
+  },
+  {
+    "id": 5,
+    "name": "Robotouch Classic Plus Foot Massager",
+    "img": "https://i.pinimg.com/736x/9a/5d/24/9a5d24e7b1c8f3d6a2e9c5b4f7d1a8c3.jpg",
+    "price": 27000
+  },
+  {
+    "id": 6,
+    "name": "Caresmith Foot & Leg Massager",
+    "img": "https://i.pinimg.com/736x/6f/1b/58/6f1b58d2c9e4a7f5b3d8c1a6e9f2b4d7.jpg",
+    "price": 11599
+  },
+  {
+    "id": 7,
+    "name": "WaveX Foot Massager",
+    "img": "https://i.pinimg.com/736x/4b/7e/16/4b7e16c8d2a5f9b3e1c6d4a8f7b2c5d9.jpg",
+    "price": 24999
+  },
+  {
+    "id": 8,
+    "name": "Beurer FM90 Air Compression Foot Massager",
+    "img": "https://i.pinimg.com/736x/2d/8c/94/2d8c94b6f1a5d9c3e7b2a8f4d6c1e5b9.jpg",
+    "price": 12356
+  }
+],
+"back_massager": [
+  {
+    "id": 1,
+    "name": "Caresmith Revive Cushion Back Massager",
+    "img": "https://i.pinimg.com/736x/4f/8b/25/4f8b25d9c1e7a3b6f2d5c8a4e9b1d7f3.jpg",
+    "price": 1899
+  },
+  {
+    "id": 2,
+    "name": "Cult Deep Cure Pro Back Massager",
+    "img": "https://i.pinimg.com/736x/4f/8b/25/4f8b25d9c1e7a3b6f2d5c8a4e9b1d7f3.jpg",
+    "price": 3199
+  },
+  {
+    "id": 3,
+    "name": "Hyperice Venom Back Massager",
+    "img": "https://i.pinimg.com/736x/4f/8b/25/4f8b25d9c1e7a3b6f2d5c8a4e9b1d7f3.jpg",
+    "price": 9294
+  },
+  {
+    "id": 4,
+    "name": "Croma Back & Neck Massager",
+    "img": "https://i.pinimg.com/736x/4f/8b/25/4f8b25d9c1e7a3b6f2d5c8a4e9b1d7f3.jpg",
+    "price": 8699
+  },
+  {
+    "id": 5,
+    "name": "Dr Physio Shiatsu Back Massager",
+    "img": "https://i.pinimg.com/736x/4f/8b/25/4f8b25d9c1e7a3b6f2d5c8a4e9b1d7f3.jpg",
+    "price": 2499
+  },
+  {
+    "id": 6,
+    "name": "AGARO Shiatsu Back Massager",
+    "img": "https://i.pinimg.com/736x/4f/8b/25/4f8b25d9c1e7a3b6f2d5c8a4e9b1d7f3.jpg",
+    "price": 2999
+  },
+  {
+    "id": 7,
+    "name": "Boldfit Electric Back Massager",
+    "img": "https://i.pinimg.com/736x/4f/8b/25/4f8b25d9c1e7a3b6f2d5c8a4e9b1d7f3.jpg",
+    "price": 1899
+  },
+  {
+    "id": 8,
+    "name": "KosmoCare Shiatsu Back Massage Cushion",
+    "img": "https://i.pinimg.com/736x/4f/8b/25/4f8b25d9c1e7a3b6f2d5c8a4e9b1d7f3.jpg",
+    "price": 6340
+  }
+],
+"massage_cushion": [
+  {
+    "id": 1,
+    "name": "Caresmith Revive Cushion Back Massager",
+    "img": "https://i.pinimg.com/736x/a5/9c/37/a59c37d8b2f4a1e6c9d5b7a3f8e2d4c1.jpg",
+    "price": 1899
+  },
+  {
+    "id": 2,
+    "name": "Dr Physio Shiatsu Massage Cushion",
+    "img": "https://i.pinimg.com/736x/b7/2d/91/b72d91c5e8a4f1d6b3c9e2a7f5d8c1b4.jpg",
+    "price": 2259
+  },
+  {
+    "id": 3,
+    "name": "KosmoCare Shiatsu Massage Cushion",
+    "img": "https://i.pinimg.com/736x/c4/8e/25/c48e25d9b1f7a3c6e2d8b5a4f9c1e7d3.jpg",
+    "price": 6340
+  },
+  {
+    "id": 4,
+    "name": "GHK H90 Shiatsu Massage Cushion",
+    "img": "https://i.pinimg.com/736x/d8/4b/62/d84b62e7a5c1f9d3b6e2a8c4f7d1b5e9.jpg",
+    "price": 4875
+  },
+  {
+    "id": 5,
+    "name": "OGAWA Massage Cushion",
+    "img": "https://i.pinimg.com/736x/e2/7c/84/e27c84b6d9a2f5c1e8b4d7a3f6c9e1d5.jpg",
+    "price": 9999
+  },
+  {
+    "id": 6,
+    "name": "REMAXX Electric Massage Cushion",
+    "img": "https://i.pinimg.com/736x/f6/1a/47/f61a47d9c3b8e5a2f7d4c1b6e9a5d2c8.jpg",
+    "price": 1499
+  },
+  {
+    "id": 7,
+    "name": "ExtraLux Shiatsu Massage Cushion",
+    "img": "https://i.pinimg.com/736x/91/5d/28/915d28e7b4c1f8a3d6e2b9c5f7a4d1e6.jpg",
+    "price": 9849
+  },
+  {
+    "id": 8,
+    "name": "COMFIER Full Body Massage Cushion",
+    "img": "https://i.pinimg.com/736x/6b/9f/53/6b9f53c2d8a4e1f7b5c9d3a6e2f8b4d1.jpg",
+    "price": 4899
+  }
+],
+"accessories": [
+  {
+    "id": 1,
+    "category": "gym_gloves",
+    "img": "https://i.pinimg.com/736x/8c/2d/14/8c2d14f9b7a4c6e1d5f8a3b2c9e7d4f1.jpg",
+    "price": 799
+  },
+  {
+    "id": 2,
+    "category": "lifting_belt",
+    "img": "https://i.pinimg.com/736x/3a/9f/52/3a9f52d7b1c4e8f6a2d9b5c7e4f1a8d3.jpg",
+    "price": 1499
+  },
+  {
+    "id": 3,
+    "category": "resistance_band",
+    "img": "https://i.pinimg.com/736x/7d/5b/81/7d5b81a4c2e9f6b3d1a7c5e8f4b2d9a6.jpg",
+    "price": 999
+  },
+  {
+    "id": 4,
+    "category": "gym_bag",
+    "img": "https://i.pinimg.com/736x/5e/7a/92/5e7a92b4d1c8f6a3e9b2d5f7c4a1e8d6.jpg",
+    "price": 1899
+  },
+  {
+    "id": 5,
+    "category": "hand_gripper",
+    "img": "https://i.pinimg.com/736x/1c/6e/75/1c6e75d8b4a2f9c5e7d3b1a6f8c4e2d9.jpg",
+    "price": 699
+  }
+],
+"gym_glove": [
+  {
+    "id": 1,
+    "name": "Boldfit Workout Gym Gloves",
+    "img": "https://i.pinimg.com/736x/8c/2d/14/8c2d14f9b7a4c6e1d5f8a3b2c9e7d4f1.jpg",
+    "price": 799
+  },
+  {
+    "id": 2,
+    "name": "Strauss Premium Weight Lifting Gloves",
+    "img": "https://i.pinimg.com/736x/3a/9f/52/3a9f52d7b1c4e8f6a2d9b5c7e4f1a8d3.jpg",
+    "price": 899
+  },
+  {
+    "id": 3,
+    "name": "Leather Gym Workout Gloves",
+    "img": "https://i.pinimg.com/736x/7d/5b/81/7d5b81a4c2e9f6b3d1a7c5e8f4b2d9a6.jpg",
+    "price": 999
+  },
+  {
+    "id": 4,
+    "name": "Pro Grip Half Finger Gym Gloves",
+    "img": "https://i.pinimg.com/736x/5e/7a/92/5e7a92b4d1c8f6a3e9b2d5f7c4a1e8d6.jpg",
+    "price": 1099
+  },
+  {
+    "id": 5,
+    "name": "Nike Training Gym Gloves",
+    "img": "https://i.pinimg.com/736x/1c/6e/75/1c6e75d8b4a2f9c5e7d3b1a6f8c4e2d9.jpg",
+    "price": 1499
+  },
+  {
+    "id": 6,
+    "name": "Adidas Essential Fitness Gloves",
+    "img": "https://i.pinimg.com/736x/6b/1d/47/6b1d47e8c3f5a9d2b7e4c1f8a6d3b9e5.jpg",
+    "price": 1599
+  },
+  {
+    "id": 7,
+    "name": "Nivia Power Grip Gym Gloves",
+    "img": "https://i.pinimg.com/736x/9d/4f/28/9d4f28a7c5e1b8d3f6a2c9e4b7d5f1a8.jpg",
+    "price": 899
+  },
+  {
+    "id": 8,
+    "name": "USI Universal Workout Gloves",
+    "img": "https://i.pinimg.com/736x/2f/8c/63/2f8c63d9b5a1e4c7f2d8b6a3c9e5f1d7.jpg",
+    "price": 1299
+  }
+],
+"lifting_belt": [
+  {
+    "id": 1,
+    "name": "Boldfit Weight Lifting Belt",
+    "img": "https://i.pinimg.com/736x/3a/9f/52/3a9f52d7b1c4e8f6a2d9b5c7e4f1a8d3.jpg",
+    "price": 1499
+  },
+  {
+    "id": 2,
+    "name": "USI Leather Power Lifting Belt",
+    "img": "https://i.pinimg.com/736x/7d/5b/81/7d5b81a4c2e9f6b3d1a7c5e8f4b2d9a6.jpg",
+    "price": 2499
+  },
+  {
+    "id": 3,
+    "name": "Strauss Adjustable Gym Belt",
+    "img": "https://i.pinimg.com/736x/5e/7a/92/5e7a92b4d1c8f6a3e9b2d5f7c4a1e8d6.jpg",
+    "price": 1299
+  },
+  {
+    "id": 4,
+    "name": "Nike Strength Training Belt",
+    "img": "https://i.pinimg.com/736x/1c/6e/75/1c6e75d8b4a2f9c5e7d3b1a6f8c4e2d9.jpg",
+    "price": 2899
+  },
+  {
+    "id": 5,
+    "name": "Adidas Performance Lifting Belt",
+    "img": "https://i.pinimg.com/736x/6b/1d/47/6b1d47e8c3f5a9d2b7e4c1f8a6d3b9e5.jpg",
+    "price": 2699
+  },
+  {
+    "id": 6,
+    "name": "Pro Fitness Leather Gym Belt",
+    "img": "https://i.pinimg.com/736x/9d/4f/28/9d4f28a7c5e1b8d3f6a2c9e4b7d5f1a8.jpg",
+    "price": 1899
+  },
+  {
+    "id": 7,
+    "name": "Aurion Heavy Duty Weight Belt",
+    "img": "https://i.pinimg.com/736x/2f/8c/63/2f8c63d9b5a1e4c7f2d8b6a3c9e5f1d7.jpg",
+    "price": 2199
+  },
+  {
+    "id": 8,
+    "name": "Fitkit Premium Powerlifting Belt",
+    "img": "https://i.pinimg.com/736x/8c/2d/14/8c2d14f9b7a4c6e1d5f8a3b2c9e7d4f1.jpg",
+    "price": 1999
+  }
+],
+"resistance_band": [
+  {
+    "id": 1,
+    "name": "Boldfit Resistance Loop Bands Set",
+    "img": "https://i.pinimg.com/736x/8d/4a/23/8d4a23f7b5c1e9d6a2f8c4b7d1e5a9c3.jpg",
+    "price": 699
+  },
+  {
+    "id": 2,
+    "name": "Fitkit Latex Resistance Band",
+    "img": "https://i.pinimg.com/736x/3c/7f/51/3c7f51d9a4b2e8c6f1d5a7b3e9c2f4d8.jpg",
+    "price": 899
+  },
+  {
+    "id": 3,
+    "name": "Strauss Exercise Resistance Bands",
+    "img": "https://i.pinimg.com/736x/6a/2d/84/6a2d84c1e7b5f3d9a4c8e2b6f1d7a5c9.jpg",
+    "price": 799
+  },
+  {
+    "id": 4,
+    "name": "Adidas Strength Resistance Band",
+    "img": "https://i.pinimg.com/736x/5f/9b/32/5f9b32d8c4a1e7f6b3d5a9c2e8f1d4b7.jpg",
+    "price": 1299
+  },
+  {
+    "id": 5,
+    "name": "Nike Training Resistance Band",
+    "img": "https://i.pinimg.com/736x/2b/6e/74/2b6e74a9d5c3f8b1e7a4d2c6f9b5e1a8.jpg",
+    "price": 1499
+  },
+  {
+    "id": 6,
+    "name": "Pro Fitness Pull-Up Resistance Band",
+    "img": "https://i.pinimg.com/736x/9c/1f/48/9c1f48b7d2a5e8c4f6b3d9a1e7c5f2b6.jpg",
+    "price": 1199
+  },
+  {
+    "id": 7,
+    "name": "Nivia Premium Resistance Band Set",
+    "img": "https://i.pinimg.com/736x/4d/8c/65/4d8c65e2b7a1f9c3d6e4a8b5f2c7d1e9.jpg",
+    "price": 999
+  },
+  {
+    "id": 8,
+    "name": "USI Heavy Duty Resistance Band",
+    "img": "https://i.pinimg.com/736x/7e/3a/19/7e3a19d5c8b4f2a6e1d9c7b3f5a8e2d4.jpg",
+    "price": 1599
+  }
+],
+"gym_bag": [
+  {
+    "id": 1,
+    "name": "Boldfit Waterproof Gym Duffel Bag",
+    "img": "https://i.pinimg.com/736x/5e/7a/92/5e7a92b4d1c8f6a3e9b2d5f7c4a1e8d6.jpg",
+    "price": 1499
+  },
+  {
+    "id": 2,
+    "name": "Nike Brasilia Training Gym Bag",
+    "img": "https://i.pinimg.com/736x/3b/8d/61/3b8d61a7c4f2e9b5d1a6c8f3e7b2d4a9.jpg",
+    "price": 2499
+  },
+  {
+    "id": 3,
+    "name": "Adidas Essentials Duffel Gym Bag",
+    "img": "https://i.pinimg.com/736x/8a/5c/27/8a5c27d9b4e1f6a3c8d2b7e5f9a1c4d6.jpg",
+    "price": 2299
+  },
+  {
+    "id": 4,
+    "name": "Puma Challenger Sports Gym Bag",
+    "img": "https://i.pinimg.com/736x/6d/2f/84/6d2f84b1c7e5a9d3f8b4c2e6a1d7f5b9.jpg",
+    "price": 1999
+  },
+  {
+    "id": 5,
+    "name": "Fitkit Multi-Pocket Gym Bag",
+    "img": "https://i.pinimg.com/736x/9c/4b/58/9c4b58e2d7a1f5c8b3e6d9a4c2f7b1e5.jpg",
+    "price": 1699
+  },
+  {
+    "id": 6,
+    "name": "Wildcraft Active Gym Bag",
+    "img": "https://i.pinimg.com/736x/2f/9a/46/2f9a46d8b5c1e7a3f4d9b2c6e8a1f5d7.jpg",
+    "price": 1899
+  },
+  {
+    "id": 7,
+    "name": "HRX by Hrithik Roshan Gym Bag",
+    "img": "https://i.pinimg.com/736x/7b/1d/93/7b1d93c5e8a4f2d6b9c3a7e1d5f8b2c4.jpg",
+    "price": 2199
+  },
+  {
+    "id": 8,
+    "name": "Strauss Premium Sports Gym Bag",
+    "img": "https://i.pinimg.com/736x/4e/6c/15/4e6c15a9d3b7f1c8e2a5d9b4f6c1e7a3.jpg",
+    "price": 1799
+  }
+],
+"hand_gripper": [
+  {
+    "id": 1,
+    "name": "Boldfit Adjustable Hand Gripper",
+    "img": "https://i.pinimg.com/736x/1c/6e/75/1c6e75d8b4a2f9c5e7d3b1a6f8c4e2d9.jpg",
+    "price": 499
+  },
+  {
+    "id": 2,
+    "name": "Strauss Heavy Duty Hand Gripper",
+    "img": "https://i.pinimg.com/736x/3d/8a/51/3d8a51b7e2c9f4a6d1b5c8e3f7a2d9c4.jpg",
+    "price": 599
+  },
+  {
+    "id": 3,
+    "name": "Fitkit Adjustable Grip Strengthener",
+    "img": "https://i.pinimg.com/736x/7a/5d/84/7a5d84c2e9b6f1d4a8c3e7b5f2d9a6c1.jpg",
+    "price": 699
+  },
+  {
+    "id": 4,
+    "name": "USI Professional Hand Gripper",
+    "img": "https://i.pinimg.com/736x/5f/2b/63/5f2b63d8a4c1e7f9b3d6a2c5e8f1d4b7.jpg",
+    "price": 799
+  },
+  {
+    "id": 5,
+    "name": "Nike Grip Strength Trainer",
+    "img": "https://i.pinimg.com/736x/9b/4e/28/9b4e28a7d5c1f8b3e6a2d9c4f7b1e5a8.jpg",
+    "price": 999
+  },
+  {
+    "id": 6,
+    "name": "Adidas Adjustable Hand Gripper",
+    "img": "https://i.pinimg.com/736x/2e/7c/95/2e7c95d1b6a4f9c3e8d2b5a7f1c6e4d9.jpg",
+    "price": 1099
+  },
+  {
+    "id": 7,
+    "name": "Pro Fitness Metal Hand Gripper",
+    "img": "https://i.pinimg.com/736x/6c/1f/47/6c1f47b9d3a8e5c2f7b4d1a6e9c5f2b8.jpg",
+    "price": 899
+  },
+  {
+    "id": 8,
+    "name": "Nivia Power Grip Hand Gripper",
+    "img": "https://i.pinimg.com/736x/8d/3a/16/8d3a16c5b7e1f4a9d2c6b8e3f5a1d7c4.jpg",
+    "price": 749
+  }
+],
+"new_arrivals": [
+  {
+    "id": 1,
+    "category": "premium_gym_gloves",
+    "img": "https://i.pinimg.com/736x/8c/2d/14/8c2d14f9b7a4c6e1d5f8a3b2c9e7d4f1.jpg",
+    "price": 799
+  },
+  {
+    "id": 2,
+    "category": "lifting_belt",
+    "img": "https://i.pinimg.com/736x/3a/9f/52/3a9f52d7b1c4e8f6a2d9b5c7e4f1a8d3.jpg",
+    "price": 1499
+  },
+  {
+    "id": 3,
+    "category": "resistance_band",
+    "img": "https://i.pinimg.com/736x/7d/5b/81/7d5b81a4c2e9f6b3d1a7c5e8f4b2d9a6.jpg",
+    "price": 999
+  },
+  {
+    "id": 4,
+    "category": "gym_bag",
+    "img": "https://i.pinimg.com/736x/6a/5c/92/6a5c92d8b3f4a7c1e9d2b6f8c5a1d4e7.jpg",
+    "price": 1899
+  },
+  {
+    "id": 5,
+    "category": "shakers",
+    "img": "https://i.pinimg.com/736x/4f/8d/23/4f8d23a6b1c9e7d5f2a4c8b3d6e1f9a2.jpg",
+    "price": 699
+  }
+],
+"premium_gym_gloves": [
+  {
+    "id": 1,
+    "name": "Nike Premium Training Gloves",
+    "img": "https://i.pinimg.com/736x/8c/2d/14/8c2d14f9b7a4c6e1d5f8a3b2c9e7d4f1.jpg",
+    "price": 1499
+  },
+  {
+    "id": 2,
+    "name": "Adidas Performance Gym Gloves",
+    "img": "https://i.pinimg.com/736x/5a/7d/63/5a7d63b1e4f9c2d8a6b3e5f1d7c9a4b2.jpg",
+    "price": 1399
+  },
+  {
+    "id": 3,
+    "name": "Under Armour Training Gloves",
+    "img": "https://i.pinimg.com/736x/3f/9b/41/3f9b41d8a2c5e7f1b6d4c9a3e8f2b5d7.jpg",
+    "price": 1699
+  },
+  {
+    "id": 4,
+    "name": "Puma Grip Workout Gloves",
+    "img": "https://i.pinimg.com/736x/7b/5c/82/7b5c82d4a9e3f6b1c8d5a2f7e4c9b1d6.jpg",
+    "price": 1199
+  },
+  {
+    "id": 5,
+    "name": "Harbinger Pro WristWrap Gloves",
+    "img": "https://i.pinimg.com/736x/2d/8f/54/2d8f54c1e7a3b9d5f6c2a8e4b1d7f9c3.jpg",
+    "price": 1899
+  },
+  {
+    "id": 6,
+    "name": "USI Leather Fitness Gloves",
+    "img": "https://i.pinimg.com/736x/9a/4d/72/9a4d72e5b1c8f3d6a2e9b4c7f5d1a8e3.jpg",
+    "price": 1299
+  },
+  {
+    "id": 7,
+    "name": "Boldfit Power Grip Gloves",
+    "img": "https://i.pinimg.com/736x/6c/1f/35/6c1f35b8d4a9e2f7c5b1d8a3f6e4c9b2.jpg",
+    "price": 999
+  },
+  {
+    "id": 8,
+    "name": "Protoner Elite Gym Gloves",
+    "img": "https://i.pinimg.com/736x/4e/7a/93/4e7a93d1c5b8f2a6e9d4b7c1f3a8d5e2.jpg",
+    "price": 1099
+  }
+],
+"lifting_belts": [
+  {
+    "id": 1,
+    "name": "Boldfit Leather Lifting Belt",
+    "img": "https://i.pinimg.com/736x/3a/9f/52/3a9f52d7b1c4e8f6a2d9b5c7e4f1a8d3.jpg",
+    "price": 1499
+  },
+  {
+    "id": 2,
+    "name": "USI Premium Weight Lifting Belt",
+    "img": "https://i.pinimg.com/736x/5c/8d/71/5c8d71a4f9b2e6d3c1a7f5b8e4d9c2a6.jpg",
+    "price": 1799
+  },
+  {
+    "id": 3,
+    "name": "Harbinger Padded Leather Belt",
+    "img": "https://i.pinimg.com/736x/8b/2f/43/8b2f43d1e7c5a9b4f6d2c8a3e1f5b7d9.jpg",
+    "price": 1999
+  },
+  {
+    "id": 4,
+    "name": "Nike Strength Training Belt",
+    "img": "https://i.pinimg.com/736x/2d/6a/84/2d6a84b7c9e3f5a1d8b4c2e7f9a6d3b1.jpg",
+    "price": 2299
+  },
+  {
+    "id": 5,
+    "name": "Adidas Power Lifting Belt",
+    "img": "https://i.pinimg.com/736x/7e/4c/25/7e4c25d9b1f6a3e8c2d5b7f4a9c1e6d2.jpg",
+    "price": 2199
+  },
+  {
+    "id": 6,
+    "name": "Protoner Heavy Duty Belt",
+    "img": "https://i.pinimg.com/736x/9c/5d/61/9c5d61a2f8b4e7d3c1a9f6b5d2e8c4a7.jpg",
+    "price": 1599
+  },
+  {
+    "id": 7,
+    "name": "Aurion Genuine Leather Gym Belt",
+    "img": "https://i.pinimg.com/736x/4a/8f/92/4a8f92d3b7e5c1f9a6d2b4e8c5f1a7d3.jpg",
+    "price": 1899
+  },
+  {
+    "id": 8,
+    "name": "Kobo Powerlifting Belt",
+    "img": "https://i.pinimg.com/736x/6d/3b/54/6d3b54a8e2c9f7b1d5a4e8c2f6b9d3a1.jpg",
+    "price": 1699
+  }
+],
+"resistance_bands": [
+  {
+    "id": 1,
+    "name": "Boldfit Heavy Resistance Band Set",
+    "img": "https://i.pinimg.com/736x/7d/5b/81/7d5b81a4c2e9f6b3d1a7c5e8f4b2d9a6.jpg",
+    "price": 999
+  },
+  {
+    "id": 2,
+    "name": "Strauss Resistance Loop Band Set",
+    "img": "https://i.pinimg.com/736x/5a/8d/72/5a8d72b4f1c9e6d3a7b2f5c8d4e1a9b6.jpg",
+    "price": 899
+  },
+  {
+    "id": 3,
+    "name": "Nike Power Resistance Bands",
+    "img": "https://i.pinimg.com/736x/3c/9f/54/3c9f54d7a2e8b5f1c6d4a9e3b7f2c8d1.jpg",
+    "price": 1499
+  },
+  {
+    "id": 4,
+    "name": "Adidas Training Resistance Set",
+    "img": "https://i.pinimg.com/736x/8b/2e/63/8b2e63a5d1f9c4e7b3a6d2f8c5e1b9d4.jpg",
+    "price": 1399
+  },
+  {
+    "id": 5,
+    "name": "Protoner Latex Resistance Bands",
+    "img": "https://i.pinimg.com/736x/4d/7c/81/4d7c81b2f5e9a3d6c1b8f4a7d2e5c9b3.jpg",
+    "price": 1099
+  },
+  {
+    "id": 6,
+    "name": "USI Fitness Resistance Band Kit",
+    "img": "https://i.pinimg.com/736x/9a/4f/35/9a4f35d8c2b7e1f6a3d9b5c4e8f2a7d1.jpg",
+    "price": 1599
+  },
+  {
+    "id": 7,
+    "name": "Decathlon Cross Training Bands",
+    "img": "https://i.pinimg.com/736x/2f/6b/94/2f6b94c7d1a5e8b3f9c2d6a4e7b1f5d8.jpg",
+    "price": 1299
+  },
+  {
+    "id": 8,
+    "name": "Aurion Heavy Duty Resistance Set",
+    "img": "https://i.pinimg.com/736x/6e/3d/52/6e3d52a9f4b1c8d7e2a5f9c3b6d1e4a8.jpg",
+    "price": 1199
+  }
+],
+"gym_bags": [
+  {
+    "id": 1,
+    "name": "Nike Premium Training Gym Bag",
+    "img": "https://i.pinimg.com/736x/6a/5c/92/6a5c92d8b3f4a7c1e9d2b6f8c5a1d4e7.jpg",
+    "price": 2499
+  },
+  {
+    "id": 2,
+    "name": "Adidas Defender Duffel Gym Bag",
+    "img": "https://i.pinimg.com/736x/4c/8f/71/4c8f71d5b2e9a6c3f1d7b4e8a5c2d9f6.jpg",
+    "price": 2299
+  },
+  {
+    "id": 3,
+    "name": "Puma Pro Training Gym Bag",
+    "img": "https://i.pinimg.com/736x/8d/3a/54/8d3a54b7e1c9f5d2a6b4e8c3f7d1a9b5.jpg",
+    "price": 1999
+  },
+  {
+    "id": 4,
+    "name": "Under Armour Hustle Gym Bag",
+    "img": "https://i.pinimg.com/736x/2f/7d/83/2f7d83c5a9e4b1d6f8c2a7e5b3d9f1c4.jpg",
+    "price": 2899
+  },
+  {
+    "id": 5,
+    "name": "Boldfit Premium Sports Bag",
+    "img": "https://i.pinimg.com/736x/9b/4e/61/9b4e61d2a8f5c3e7b1d9a4f6c2e8b5d3.jpg",
+    "price": 1699
+  },
+  {
+    "id": 6,
+    "name": "USI Fitness Duffel Gym Bag",
+    "img": "https://i.pinimg.com/736x/5d/9c/42/5d9c42b8e1f6a3d7c4b9e2a5f8d1c6b3.jpg",
+    "price": 1899
+  },
+  {
+    "id": 7,
+    "name": "Protoner Multi Pocket Gym Bag",
+    "img": "https://i.pinimg.com/736x/3a/6f/95/3a6f95c7d2e8b4f1a9c5d3e7b6f2a8d4.jpg",
+    "price": 1799
+  },
+  {
+    "id": 8,
+    "name": "Decathlon Essential Training Bag",
+    "img": "https://i.pinimg.com/736x/7e/2b/53/7e2b53a4d9f1c6b8e3a5d2f7c4b9e1d6.jpg",
+    "price": 1599
+  }
+],
+"shakers": [
+  {
+    "id": 1,
+    "name": "Boldfit Stainless Steel Protein Shaker",
+    "img": "https://i.pinimg.com/736x/4f/8d/23/4f8d23a6b1c9e7d5f2a4c8b3d6e1f9a2.jpg",
+    "price": 699
+  },
+  {
+    "id": 2,
+    "name": "MuscleBlaze Steel Protein Shaker",
+    "img": "https://i.pinimg.com/736x/6b/3f/74/6b3f74d9c2a5e8f1b4d7c3a9e6f2b5d8.jpg",
+    "price": 799
+  },
+  {
+    "id": 3,
+    "name": "USI Premium Steel Shaker Bottle",
+    "img": "https://i.pinimg.com/736x/8d/5a/61/8d5a61b7e4c9f2d6a1b8e3f5c7d9a2e4.jpg",
+    "price": 749
+  },
+  {
+    "id": 4,
+    "name": "Protoner Stainless Gym Shaker",
+    "img": "https://i.pinimg.com/736x/3c/7e/92/3c7e92a5d1f8b4e6c2a9d7f3b5e1c8a4.jpg",
+    "price": 649
+  },
+  {
+    "id": 5,
+    "name": "Strauss Double Wall Steel Shaker",
+    "img": "https://i.pinimg.com/736x/9a/2d/53/9a2d53c8f5b1e7d4a6c3f9b2e8d5a1c7.jpg",
+    "price": 899
+  },
+  {
+    "id": 6,
+    "name": "AS-IT-IS Premium Protein Shaker",
+    "img": "https://i.pinimg.com/736x/5f/9b/42/5f9b42d6a3e8c1f7b5d2a9e4c6f1b8d3.jpg",
+    "price": 599
+  },
+  {
+    "id": 7,
+    "name": "HealthKart Stainless Steel Shaker",
+    "img": "https://i.pinimg.com/736x/2e/6c/85/2e6c85b4d9a1f7c3e8b5d2a6f4c9e1b7.jpg",
+    "price": 849
+  },
+  {
+    "id": 8,
+    "name": "GNC Pro Performance Steel Shaker",
+    "img": "https://i.pinimg.com/736x/7c/4d/91/7c4d91a2e8f5b3d6c1a9e4f7b2d5c8a6.jpg",
+    "price": 999
+  }
+]
+
+
+
+
+
+
+}
+

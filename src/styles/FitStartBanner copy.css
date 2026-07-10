@@ -1,0 +1,19 @@
+.fit-banner {
+  width: 100%;
+  padding: 30px 0;
+  display: flex;
+  justify-content: center;
+}
+
+.fit-banner img {
+  width: 92%;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: 0.4s;
+}
+
+.fit-banner img:hover {
+  transform: scale(1.02);
+}
