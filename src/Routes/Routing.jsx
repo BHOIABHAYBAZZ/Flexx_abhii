@@ -1,14 +1,17 @@
 import { Routes, Route } from "react-router-dom";
 
-import Home from "../Pages/Home";
+import Home from "../pages/Home";
+import Men from "../pages/Men";
+import Women from "../pages/Women";
+import Accessories from "../pages/Accessories";
 import NewArrivals from "../Pages/NewArrivals";
-import Men from "../Pages/Men";
-import Women from "../Pages/Women";
+
+
 
 import Footwear from "../Pages/Footwear";
 import GymEquipment from "../Pages/GymEquipment";
 import Massagers from "../Pages/Massagers";
-import Accessories from "../Pages/Accessories";
+
 
 
 
