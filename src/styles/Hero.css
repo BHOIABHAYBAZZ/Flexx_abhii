@@ -3,7 +3,7 @@
 .hero-slider {
     position: relative;
     width: 100%;
-    height: clamp(220px, 70vh, 780px);
+    height: clamp(220px, 100vh, 780px);
     overflow: hidden;
     background: #000;
 }

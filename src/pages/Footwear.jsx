@@ -1,10 +1,12 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import axios from "axios";
 import { Link } from "react-router-dom";
 import '../styles/Womanwear.css'
+import shoes from "../assets/Video/shoes.mp4"
 
 export default function Footwear() {
   const [products, setProducts] = useState([]);
+   const control=useRef()
 
   useEffect(() => {
     axios
@@ -12,10 +14,18 @@ export default function Footwear() {
       .then((res) => setProducts(res.data))
       .catch((err) => console.log(err));
   }, []);
+   useEffect(() => {
+      control.current.play();
+    }, []);
 
   return (
     <section className="mens-section">
       <div className="container-fluid">
+
+         <div id="vi">
+        
+          <video src={shoes} ref={control} loop autoPlay ></video>
+             </div>
 
         <h2 className="mens-title">
           Footwear
