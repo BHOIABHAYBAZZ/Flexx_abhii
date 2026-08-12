@@ -6,6 +6,8 @@ import Product from '../components/product'
 import Menswear from '../components/Menswear'
 import Womanwear from '../components/Womanwear'
 import Footweargym from '../components/Footweargym'
+import BrandSlider from '../components/Brandslider'
+import Stats from '../components/States'
 
 
 
@@ -15,11 +17,14 @@ export default function Home() {
       <Hero/>
       <Product/>
      <Baner/>
+     
      <OfferSection/>
+     <BrandSlider/>
    <Menswear/>
    <Womanwear/>
    <Footweargym/>
-     
+   <Stats/> 
+      
   
     </div>
   )

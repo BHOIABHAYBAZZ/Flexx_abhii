@@ -1,0 +1,57 @@
+.brand-section {
+  width: 100%;
+  padding: 60px 0;
+  background: #fff;
+  overflow: hidden;
+}
+
+.brand-section h2 {
+  text-align: center;
+  font-size: 35px;
+  margin-bottom: 40px;
+  font-weight: 700;
+}
+
+.brand-slider {
+  overflow: hidden;
+  position: relative;
+}
+
+.brand-track {
+  display: flex;
+  width: max-content;
+  animation: scroll 25s linear infinite;
+}
+
+.brand-card {
+  width: 220px;
+  height: 120px;
+  background: white;
+  border-radius: 15px;
+  margin: 0 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 8px 20px rgba(0,0,0,.08);
+  transition: .3s;
+}
+
+.brand-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 15px 35px rgba(0,0,0,.15);
+}
+
+.brand-card img {
+  max-width: 150px;
+  max-height: 70px;
+  object-fit: contain;
+}
+
+@keyframes scroll {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}

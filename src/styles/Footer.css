@@ -4,7 +4,40 @@
     margin-top:80px;
 }
 
+/* =========================
+   Top Feature Strip
+========================= */
+
+.footer-features{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:60px;
+    padding:22px 8%;
+    border-bottom:1px solid #2a2a2a;
+    flex-wrap:wrap;
+}
+
+.feature{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    font-size:16px;
+    font-weight:600;
+    color:#fff;
+}
+
+.feature svg{
+    font-size:24px;
+    color:#ff5a00;
+}
+
+/* =========================
+   Main Footer
+========================= */
+
 .footer-top{
+    height: 400px;
     width:90%;
     margin:auto;
     display:grid;
@@ -23,8 +56,8 @@
 }
 
 .footer-box h3{
-    margin-bottom:22px;
     font-size:22px;
+    margin-bottom:22px;
 }
 
 .footer-box p{
@@ -37,13 +70,34 @@
     color:#bdbdbd;
     text-decoration:none;
     margin-bottom:14px;
-    transition:.3s;
+    transition:.35s;
 }
 
 .footer-box a:hover{
     color:#ff5a00;
     transform:translateX(8px);
 }
+
+/* =========================
+   Contact Info
+========================= */
+
+.contact-info{
+    margin:20px 0;
+}
+
+.contact-info p{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    margin:12px 0;
+    color:#d2d2d2;
+    font-size:14px;
+}
+
+/* =========================
+   Social Icons
+========================= */
 
 .social-icons{
     display:flex;
@@ -61,13 +115,19 @@
     align-items:center;
     color:#fff;
     font-size:18px;
+    text-decoration:none;
     transition:.35s;
 }
 
 .social-icons a:hover{
     background:#ff5a00;
-    transform:translateY(-5px);
+    color:#fff;
+    transform:translateY(-6px) rotate(8deg);
 }
+
+/* =========================
+   Newsletter
+========================= */
 
 .newsletter{
     display:flex;
@@ -81,6 +141,7 @@
     outline:none;
     padding:0 15px;
     border-radius:8px 0 0 8px;
+    font-size:14px;
 }
 
 .newsletter button{
@@ -91,45 +152,126 @@
     cursor:pointer;
     border-radius:0 8px 8px 0;
     font-size:18px;
+    transition:.3s;
 }
+
+.newsletter button:hover{
+    background:#ff7300;
+}
+
+/* =========================
+   Payment Icons
+========================= */
+
+.payment-icons{
+    display:flex;
+    align-items:center;
+    gap:18px;
+    margin-top:25px;
+    flex-wrap:wrap;
+    font-size:32px;
+}
+
+.payment-icons svg{
+    cursor:pointer;
+    transition:.3s;
+}
+
+.payment-icons svg:hover{
+    color:#ff5a00;
+    transform:translateY(-5px) scale(1.12);
+}
+
+.payment-text{
+    
+    border:1px solid #444;
+    padding:6px 12px;
+    border-radius:8px;
+    font-size:13px;
+    font-weight:600;
+    color:#fff;
+}
+.payment-text:hover{
+      color:#ff5a00;
+    transform:translateY(-5px) scale(1.12);
+}
+
+/* =========================
+   Bottom
+========================= */
 
 .footer-bottom{
-    border-top:1px solid #2d2d2d;
-    text-align:center;
-    padding:22px;
+    border-top:1px solid #2a2a2a;
+    margin-top:20px;
+    padding:25px 8%;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    flex-wrap:wrap;
+    gap:10px;
     color:#bdbdbd;
+    font-size:14px;
 }
 
-/* Responsive */
+.footer-bottom strong{
+    color:#ff5a00;
+}
+
+/* =========================
+   Tablet
+========================= */
 
 @media(max-width:992px){
 
 .footer-top{
-grid-template-columns:repeat(2,1fr);
+    grid-template-columns:repeat(2,1fr);
+    gap:40px;
+}
+
+.footer-features{
+    gap:35px;
 }
 
 }
+
+/* =========================
+   Mobile
+========================= */
 
 @media(max-width:768px){
 
 .footer-top{
-grid-template-columns:1fr;
-gap:35px;
+    grid-template-columns:1fr;
+    gap:35px;
+}
+
+.footer-features{
+    flex-direction:column;
+    gap:20px;
 }
 
 .newsletter{
-flex-direction:column;
+    flex-direction:column;
 }
 
 .newsletter input{
-border-radius:8px;
-margin-bottom:10px;
+    border-radius:8px;
+    margin-bottom:10px;
 }
 
 .newsletter button{
-width:100%;
-height:50px;
-border-radius:8px;
+    width:100%;
+    height:50px;
+    border-radius:8px;
+}
+
+.payment-icons{
+    justify-content:center;
+}
+
+.footer-bottom{
+    flex-direction:column;
+    text-align:center;
 }
 
 }
